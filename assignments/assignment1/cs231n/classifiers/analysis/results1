@@ -1,0 +1,848 @@
+Start for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.500000 hidden=50
+iteration 0 / 1000: loss 2.302984
+iteration 100 / 1000: loss 2.136399
+iteration 200 / 1000: loss 2.028548
+iteration 300 / 1000: loss 1.907094
+iteration 400 / 1000: loss 1.804249
+iteration 500 / 1000: loss 1.683143
+iteration 600 / 1000: loss 1.681643
+iteration 700 / 1000: loss 1.741628
+iteration 800 / 1000: loss 1.654819
+iteration 900 / 1000: loss 1.628376
+Validation accuracy: 0.447000 
+for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.500000 hidden=50
+
+ACCC 0.447
+
+BEST ACC: 0.447
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.5, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c1292d0>, 'hidden': 50, 'accuracy': 0.44700000000000001}
+Start for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.500000 hidden=100
+iteration 0 / 1000: loss 2.303328
+iteration 100 / 1000: loss 2.162720
+iteration 200 / 1000: loss 2.036596
+iteration 300 / 1000: loss 1.914479
+iteration 400 / 1000: loss 1.762422
+iteration 500 / 1000: loss 1.766086
+iteration 600 / 1000: loss 1.684722
+iteration 700 / 1000: loss 1.718672
+iteration 800 / 1000: loss 1.541197
+iteration 900 / 1000: loss 1.582509
+Validation accuracy: 0.454000 
+for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.500000 hidden=100
+
+ACCC 0.454
+
+BEST ACC: 0.454
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.5, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf3a571e50>, 'hidden': 100, 'accuracy': 0.45400000000000001}
+Start for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.500000 hidden=200
+iteration 0 / 1000: loss 2.304147
+iteration 100 / 1000: loss 2.091672
+iteration 200 / 1000: loss 1.924935
+iteration 300 / 1000: loss 1.842443
+iteration 400 / 1000: loss 1.745222
+iteration 500 / 1000: loss 1.738381
+iteration 600 / 1000: loss 1.590568
+iteration 700 / 1000: loss 1.703544
+iteration 800 / 1000: loss 1.769133
+iteration 900 / 1000: loss 1.502615
+Validation accuracy: 0.457000 
+for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.500000 hidden=200
+
+ACCC 0.457
+
+BEST ACC: 0.457
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.5, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c15be10>, 'hidden': 200, 'accuracy': 0.45700000000000002}
+Start for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.000100 hidden=50
+iteration 0 / 1000: loss 2.302603
+iteration 100 / 1000: loss 2.164226
+iteration 200 / 1000: loss 1.885774
+iteration 300 / 1000: loss 1.885412
+iteration 400 / 1000: loss 1.769921
+iteration 500 / 1000: loss 1.662448
+iteration 600 / 1000: loss 1.680455
+iteration 700 / 1000: loss 1.606945
+iteration 800 / 1000: loss 1.670960
+iteration 900 / 1000: loss 1.496027
+Validation accuracy: 0.455000 
+for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.000100 hidden=50
+BEST ACC: 0.457
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.5, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c15be10>, 'hidden': 200, 'accuracy': 0.45700000000000002}
+Start for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.000100 hidden=100
+iteration 0 / 1000: loss 2.302569
+iteration 100 / 1000: loss 2.146235
+iteration 200 / 1000: loss 1.914281
+iteration 300 / 1000: loss 1.796337
+iteration 400 / 1000: loss 1.736563
+iteration 500 / 1000: loss 1.699668
+iteration 600 / 1000: loss 1.604929
+iteration 700 / 1000: loss 1.462389
+iteration 800 / 1000: loss 1.542475
+iteration 900 / 1000: loss 1.645634
+Validation accuracy: 0.459000 
+for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.000100 hidden=100
+
+ACCC 0.459
+
+BEST ACC: 0.459
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.0001, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129f50>, 'hidden': 100, 'accuracy': 0.45900000000000002}
+Start for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.000100 hidden=200
+iteration 0 / 1000: loss 2.302564
+iteration 100 / 1000: loss 2.135521
+iteration 200 / 1000: loss 1.863720
+iteration 300 / 1000: loss 1.846992
+iteration 400 / 1000: loss 1.716148
+iteration 500 / 1000: loss 1.651067
+iteration 600 / 1000: loss 1.611411
+iteration 700 / 1000: loss 1.604179
+iteration 800 / 1000: loss 1.598559
+iteration 900 / 1000: loss 1.567812
+Validation accuracy: 0.467000 
+for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.000100 hidden=200
+
+ACCC 0.467
+
+BEST ACC: 0.467
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.0001, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c15be10>, 'hidden': 200, 'accuracy': 0.46700000000000003}
+Start for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.500000 hidden=50
+iteration 0 / 1000: loss 2.302970
+iteration 100 / 1000: loss 2.302449
+iteration 200 / 1000: loss 2.296186
+iteration 300 / 1000: loss 2.238374
+iteration 400 / 1000: loss 2.183616
+iteration 500 / 1000: loss 2.094991
+iteration 600 / 1000: loss 2.005927
+iteration 700 / 1000: loss 2.161114
+iteration 800 / 1000: loss 2.017322
+iteration 900 / 1000: loss 1.941039
+Validation accuracy: 0.276000 
+for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.500000 hidden=50
+BEST ACC: 0.467
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.0001, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c15be10>, 'hidden': 200, 'accuracy': 0.46700000000000003}
+Start for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.500000 hidden=100
+iteration 0 / 1000: loss 2.303359
+iteration 100 / 1000: loss 2.302357
+iteration 200 / 1000: loss 2.294785
+iteration 300 / 1000: loss 2.236905
+iteration 400 / 1000: loss 2.187010
+iteration 500 / 1000: loss 2.085988
+iteration 600 / 1000: loss 2.042726
+iteration 700 / 1000: loss 2.091961
+iteration 800 / 1000: loss 1.991210
+iteration 900 / 1000: loss 1.804662
+Validation accuracy: 0.288000 
+for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.500000 hidden=100
+BEST ACC: 0.467
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.0001, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c15be10>, 'hidden': 200, 'accuracy': 0.46700000000000003}
+Start for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.500000 hidden=200
+iteration 0 / 1000: loss 2.304129
+iteration 100 / 1000: loss 2.302644
+iteration 200 / 1000: loss 2.290491
+iteration 300 / 1000: loss 2.214172
+iteration 400 / 1000: loss 2.153756
+iteration 500 / 1000: loss 2.106712
+iteration 600 / 1000: loss 2.047697
+iteration 700 / 1000: loss 2.010221
+iteration 800 / 1000: loss 2.056613
+iteration 900 / 1000: loss 1.923613
+Validation accuracy: 0.304000 
+for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.500000 hidden=200
+BEST ACC: 0.467
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.0001, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c15be10>, 'hidden': 200, 'accuracy': 0.46700000000000003}
+Start for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.000100 hidden=50
+iteration 0 / 1000: loss 2.302588
+iteration 100 / 1000: loss 2.302096
+iteration 200 / 1000: loss 2.295961
+iteration 300 / 1000: loss 2.253967
+iteration 400 / 1000: loss 2.156116
+iteration 500 / 1000: loss 2.158863
+iteration 600 / 1000: loss 2.088702
+iteration 700 / 1000: loss 2.032002
+iteration 800 / 1000: loss 2.028055
+iteration 900 / 1000: loss 1.926564
+Validation accuracy: 0.280000 
+for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.000100 hidden=50
+BEST ACC: 0.467
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.0001, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c15be10>, 'hidden': 200, 'accuracy': 0.46700000000000003}
+Start for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.000100 hidden=100
+iteration 0 / 1000: loss 2.302583
+iteration 100 / 1000: loss 2.301537
+iteration 200 / 1000: loss 2.288884
+iteration 300 / 1000: loss 2.250045
+iteration 400 / 1000: loss 2.128989
+iteration 500 / 1000: loss 2.107456
+iteration 600 / 1000: loss 2.002136
+iteration 700 / 1000: loss 2.006124
+
+iteration 800 / 1000: loss 1.950986
+iteration 900 / 1000: loss 1.931362
+Validation accuracy: 0.290000 
+for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.000100 hidden=100
+BEST ACC: 0.467
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.0001, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c15be10>, 'hidden': 200, 'accuracy': 0.46700000000000003}
+Start for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.000100 hidden=200
+iteration 0 / 1000: loss 2.302649
+iteration 100 / 1000: loss 2.300693
+iteration 200 / 1000: loss 2.292112
+iteration 300 / 1000: loss 2.223370
+iteration 400 / 1000: loss 2.145373
+iteration 500 / 1000: loss 2.042152
+iteration 600 / 1000: loss 2.043703
+iteration 700 / 1000: loss 2.001934
+iteration 800 / 1000: loss 1.888525
+iteration 900 / 1000: loss 2.024631
+Validation accuracy: 0.299000 
+for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.000100 hidden=200
+BEST ACC: 0.467
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.0001, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c15be10>, 'hidden': 200, 'accuracy': 0.46700000000000003}
+Start for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.500000 hidden=50
+iteration 0 / 1000: loss 2.302975
+iteration 100 / 1000: loss 1.955826
+iteration 200 / 1000: loss 1.780356
+iteration 300 / 1000: loss 1.652829
+iteration 400 / 1000: loss 1.590638
+iteration 500 / 1000: loss 1.582708
+iteration 600 / 1000: loss 1.646193
+iteration 700 / 1000: loss 1.623858
+iteration 800 / 1000: loss 1.624701
+iteration 900 / 1000: loss 1.534730
+Validation accuracy: 0.474000 
+for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.500000 hidden=50
+
+ACCC 0.474
+
+BEST ACC: 0.474
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129190>, 'hidden': 50, 'accuracy': 0.47399999999999998}
+Start for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.500000 hidden=100
+iteration 0 / 1000: loss 2.303342
+iteration 100 / 1000: loss 1.912505
+iteration 200 / 1000: loss 1.778464
+iteration 300 / 1000: loss 1.741340
+iteration 400 / 1000: loss 1.615562
+iteration 500 / 1000: loss 1.559546
+iteration 600 / 1000: loss 1.602865
+iteration 700 / 1000: loss 1.503337
+iteration 800 / 1000: loss 1.450778
+iteration 900 / 1000: loss 1.649047
+Validation accuracy: 0.469000 
+for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.500000 hidden=100
+BEST ACC: 0.474
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129190>, 'hidden': 50, 'accuracy': 0.47399999999999998}
+Start for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.500000 hidden=200
+iteration 0 / 1000: loss 2.304144
+iteration 100 / 1000: loss 1.997421
+iteration 200 / 1000: loss 1.697496
+iteration 300 / 1000: loss 1.580220
+iteration 400 / 1000: loss 1.538095
+iteration 500 / 1000: loss 1.630229
+iteration 600 / 1000: loss 1.529901
+iteration 700 / 1000: loss 1.606925
+iteration 800 / 1000: loss 1.603497
+iteration 900 / 1000: loss 1.392025
+Validation accuracy: 0.489000 
+for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.500000 hidden=200
+
+ACCC 0.489
+
+BEST ACC: 0.489
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129f50>, 'hidden': 200, 'accuracy': 0.48899999999999999}
+Start for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.000100 hidden=50
+iteration 0 / 1000: loss 2.302550
+iteration 100 / 1000: loss 1.898098
+iteration 200 / 1000: loss 1.701221
+iteration 300 / 1000: loss 1.700921
+iteration 400 / 1000: loss 1.694152
+iteration 500 / 1000: loss 1.739052
+iteration 600 / 1000: loss 1.613960
+iteration 700 / 1000: loss 1.443475
+iteration 800 / 1000: loss 1.590413
+iteration 900 / 1000: loss 1.309065
+Validation accuracy: 0.468000 
+for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.000100 hidden=50
+BEST ACC: 0.489
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129f50>, 'hidden': 200, 'accuracy': 0.48899999999999999}
+Start for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.000100 hidden=100
+iteration 0 / 1000: loss 2.302585
+iteration 100 / 1000: loss 1.861487
+iteration 200 / 1000: loss 1.785056
+iteration 300 / 1000: loss 1.791626
+iteration 400 / 1000: loss 1.619812
+iteration 500 / 1000: loss 1.585283
+iteration 600 / 1000: loss 1.495341
+iteration 700 / 1000: loss 1.458743
+iteration 800 / 1000: loss 1.497296
+iteration 900 / 1000: loss 1.380585
+Validation accuracy: 0.466000 
+for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.000100 hidden=100
+BEST ACC: 0.489
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129f50>, 'hidden': 200, 'accuracy': 0.48899999999999999}
+Start for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.000100 hidden=200
+iteration 0 / 1000: loss 2.302550
+iteration 100 / 1000: loss 1.908024
+iteration 200 / 1000: loss 1.695553
+iteration 300 / 1000: loss 1.672020
+iteration 400 / 1000: loss 1.616902
+iteration 500 / 1000: loss 1.493916
+iteration 600 / 1000: loss 1.552815
+iteration 700 / 1000: loss 1.540201
+iteration 800 / 1000: loss 1.565236
+iteration 900 / 1000: loss 1.539725
+Validation accuracy: 0.479000 
+for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.000100 hidden=200
+BEST ACC: 0.489
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129f50>, 'hidden': 200, 'accuracy': 0.48899999999999999}
+Start for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.500000 hidden=50
+iteration 0 / 1000: loss 2.302953
+iteration 100 / 1000: loss 2.115122
+iteration 200 / 1000: loss 1.993990
+iteration 300 / 1000: loss 1.850042
+iteration 400 / 1000: loss 1.783270
+iteration 500 / 1000: loss 1.745188
+iteration 600 / 1000: loss 1.688257
+iteration 700 / 1000: loss 1.648615
+iteration 800 / 1000: loss 1.608874
+iteration 900 / 1000: loss 1.588824
+Validation accuracy: 0.460000 
+for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.500000 hidden=50
+BEST ACC: 0.489
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129f50>, 'hidden': 200, 'accuracy': 0.48899999999999999}
+Start for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.500000 hidden=100
+iteration 0 / 1000: loss 2.303350
+iteration 100 / 1000: loss 2.100514
+iteration 200 / 1000: loss 1.874193
+iteration 300 / 1000: loss 1.799112
+iteration 400 / 1000: loss 1.777168
+iteration 500 / 1000: loss 1.716933
+iteration 600 / 1000: loss 1.703654
+iteration 700 / 1000: loss 1.618404
+iteration 800 / 1000: loss 1.694349
+iteration 900 / 1000: loss 1.658182
+Validation accuracy: 0.452000 
+for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.500000 hidden=100
+BEST ACC: 0.489
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129f50>, 'hidden': 200, 'accuracy': 0.48899999999999999}
+Start for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.500000 hidden=200
+iteration 0 / 1000: loss 2.304137
+iteration 100 / 1000: loss 2.092510
+iteration 200 / 1000: loss 1.905155
+iteration 300 / 1000: loss 1.829242
+iteration 400 / 1000: loss 1.771767
+iteration 500 / 1000: loss 1.781454
+iteration 600 / 1000: loss 1.721007
+iteration 700 / 1000: loss 1.653263
+iteration 800 / 1000: loss 1.560024
+iteration 900 / 1000: loss 1.620014
+Validation accuracy: 0.449000 
+for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.500000 hidden=200
+BEST ACC: 0.489
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129f50>, 'hidden': 200, 'accuracy': 0.48899999999999999}
+Start for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.000100 hidden=50
+iteration 0 / 1000: loss 2.302577
+
+iteration 100 / 1000: loss 2.107575
+iteration 200 / 1000: loss 1.914034
+iteration 300 / 1000: loss 1.825735
+iteration 400 / 1000: loss 1.809636
+iteration 500 / 1000: loss 1.709296
+iteration 600 / 1000: loss 1.683424
+iteration 700 / 1000: loss 1.616009
+iteration 800 / 1000: loss 1.610270
+iteration 900 / 1000: loss 1.595330
+Validation accuracy: 0.441000 
+for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.000100 hidden=50
+BEST ACC: 0.489
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129f50>, 'hidden': 200, 'accuracy': 0.48899999999999999}
+Start for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.000100 hidden=100
+iteration 0 / 1000: loss 2.302568
+iteration 100 / 1000: loss 2.089886
+iteration 200 / 1000: loss 1.951480
+iteration 300 / 1000: loss 1.857886
+iteration 400 / 1000: loss 1.768198
+iteration 500 / 1000: loss 1.783545
+iteration 600 / 1000: loss 1.704298
+iteration 700 / 1000: loss 1.575527
+iteration 800 / 1000: loss 1.534718
+iteration 900 / 1000: loss 1.549597
+Validation accuracy: 0.466000 
+for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.000100 hidden=100
+BEST ACC: 0.489
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129f50>, 'hidden': 200, 'accuracy': 0.48899999999999999}
+Start for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.000100 hidden=200
+iteration 0 / 1000: loss 2.302598
+iteration 100 / 1000: loss 2.061518
+iteration 200 / 1000: loss 1.927925
+iteration 300 / 1000: loss 1.811562
+iteration 400 / 1000: loss 1.749912
+iteration 500 / 1000: loss 1.684641
+iteration 600 / 1000: loss 1.691452
+iteration 700 / 1000: loss 1.572365
+iteration 800 / 1000: loss 1.612406
+iteration 900 / 1000: loss 1.591626
+Validation accuracy: 0.462000 
+for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.000100 hidden=200
+BEST ACC: 0.489
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129f50>, 'hidden': 200, 'accuracy': 0.48899999999999999}
+Start for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.500000 hidden=50
+iteration 0 / 1000: loss 2.302958
+iteration 100 / 1000: loss 2.302356
+iteration 200 / 1000: loss 2.298039
+iteration 300 / 1000: loss 2.258777
+iteration 400 / 1000: loss 2.192630
+iteration 500 / 1000: loss 2.127200
+iteration 600 / 1000: loss 2.063748
+iteration 700 / 1000: loss 2.046034
+iteration 800 / 1000: loss 2.057114
+iteration 900 / 1000: loss 1.974520
+Validation accuracy: 0.271000 
+for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.500000 hidden=50
+BEST ACC: 0.489
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129f50>, 'hidden': 200, 'accuracy': 0.48899999999999999}
+Start for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.500000 hidden=100
+iteration 0 / 1000: loss 2.303339
+iteration 100 / 1000: loss 2.302045
+iteration 200 / 1000: loss 2.292776
+iteration 300 / 1000: loss 2.233190
+iteration 400 / 1000: loss 2.158492
+iteration 500 / 1000: loss 2.112130
+iteration 600 / 1000: loss 2.107562
+iteration 700 / 1000: loss 2.009946
+iteration 800 / 1000: loss 2.008809
+iteration 900 / 1000: loss 2.014693
+Validation accuracy: 0.280000 
+for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.500000 hidden=100
+BEST ACC: 0.489
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129f50>, 'hidden': 200, 'accuracy': 0.48899999999999999}
+Start for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.500000 hidden=200
+iteration 0 / 1000: loss 2.304118
+iteration 100 / 1000: loss 2.302306
+iteration 200 / 1000: loss 2.288526
+iteration 300 / 1000: loss 2.229280
+iteration 400 / 1000: loss 2.152170
+iteration 500 / 1000: loss 2.144197
+iteration 600 / 1000: loss 2.048451
+iteration 700 / 1000: loss 2.028747
+iteration 800 / 1000: loss 2.013590
+iteration 900 / 1000: loss 2.019696
+Validation accuracy: 0.287000 
+for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.500000 hidden=200
+BEST ACC: 0.489
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129f50>, 'hidden': 200, 'accuracy': 0.48899999999999999}
+Start for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.000100 hidden=50
+iteration 0 / 1000: loss 2.302586
+iteration 100 / 1000: loss 2.301977
+iteration 200 / 1000: loss 2.297628
+iteration 300 / 1000: loss 2.266782
+iteration 400 / 1000: loss 2.201307
+iteration 500 / 1000: loss 2.151029
+iteration 600 / 1000: loss 2.080816
+iteration 700 / 1000: loss 2.067557
+iteration 800 / 1000: loss 2.058810
+iteration 900 / 1000: loss 2.020503
+Validation accuracy: 0.276000 
+for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.000100 hidden=50
+BEST ACC: 0.489
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129f50>, 'hidden': 200, 'accuracy': 0.48899999999999999}
+Start for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.000100 hidden=100
+iteration 0 / 1000: loss 2.302577
+iteration 100 / 1000: loss 2.301507
+iteration 200 / 1000: loss 2.293042
+iteration 300 / 1000: loss 2.241464
+iteration 400 / 1000: loss 2.175229
+iteration 500 / 1000: loss 2.061596
+iteration 600 / 1000: loss 2.061952
+iteration 700 / 1000: loss 2.061602
+iteration 800 / 1000: loss 2.051354
+iteration 900 / 1000: loss 1.957161
+Validation accuracy: 0.284000 
+for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.000100 hidden=100
+BEST ACC: 0.489
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129f50>, 'hidden': 200, 'accuracy': 0.48899999999999999}
+Start for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.000100 hidden=200
+iteration 0 / 1000: loss 2.302582
+iteration 100 / 1000: loss 2.300477
+iteration 200 / 1000: loss 2.289546
+iteration 300 / 1000: loss 2.237959
+iteration 400 / 1000: loss 2.185786
+iteration 500 / 1000: loss 2.127825
+iteration 600 / 1000: loss 2.084725
+iteration 700 / 1000: loss 2.028910
+iteration 800 / 1000: loss 2.061793
+iteration 900 / 1000: loss 1.964352
+Validation accuracy: 0.284000 
+for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.000100 hidden=200
+BEST ACC: 0.489
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129f50>, 'hidden': 200, 'accuracy': 0.48899999999999999}
+Start for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.500000 hidden=50
+iteration 0 / 1000: loss 2.302961
+iteration 100 / 1000: loss 1.923643
+iteration 200 / 1000: loss 1.735924
+iteration 300 / 1000: loss 1.710390
+iteration 400 / 1000: loss 1.614746
+iteration 500 / 1000: loss 1.633299
+iteration 600 / 1000: loss 1.610238
+iteration 700 / 1000: loss 1.528465
+iteration 800 / 1000: loss 1.550135
+iteration 900 / 1000: loss 1.553403
+Validation accuracy: 0.464000 
+for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.500000 hidden=50
+BEST ACC: 0.489
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129f50>, 'hidden': 200, 'accuracy': 0.48899999999999999}
+Start for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.500000 hidden=100
+iteration 0 / 1000: loss 2.303359
+iteration 100 / 1000: loss 1.875936
+iteration 200 / 1000: loss 1.731317
+iteration 300 / 1000: loss 1.639345
+iteration 400 / 1000: loss 1.650848
+iteration 500 / 1000: loss 1.567376
+iteration 600 / 1000: loss 1.596508
+iteration 700 / 1000: loss 1.591716
+iteration 800 / 1000: loss 1.427240
+iteration 900 / 1000: loss 1.444448
+Validation accuracy: 0.495000 
+for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.500000 hidden=100
+
+ACCC 0.495
+
+BEST ACC: 0.495
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 500, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>, 'hidden': 100, 'accuracy': 0.495}
+Start for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.500000 hidden=200
+
+iteration 0 / 1000: loss 2.304130
+iteration 100 / 1000: loss 1.898254
+iteration 200 / 1000: loss 1.682369
+iteration 300 / 1000: loss 1.590781
+iteration 400 / 1000: loss 1.583821
+iteration 500 / 1000: loss 1.514314
+iteration 600 / 1000: loss 1.585773
+iteration 700 / 1000: loss 1.460930
+iteration 800 / 1000: loss 1.532171
+iteration 900 / 1000: loss 1.460553
+Validation accuracy: 0.472000 
+for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.500000 hidden=200
+BEST ACC: 0.495
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 500, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>, 'hidden': 100, 'accuracy': 0.495}
+Start for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.000100 hidden=50
+iteration 0 / 1000: loss 2.302589
+iteration 100 / 1000: loss 1.959049
+iteration 200 / 1000: loss 1.782368
+iteration 300 / 1000: loss 1.717599
+iteration 400 / 1000: loss 1.629131
+iteration 500 / 1000: loss 1.680355
+iteration 600 / 1000: loss 1.521173
+iteration 700 / 1000: loss 1.563915
+iteration 800 / 1000: loss 1.471244
+iteration 900 / 1000: loss 1.437824
+Validation accuracy: 0.485000 
+for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.000100 hidden=50
+BEST ACC: 0.495
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 500, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>, 'hidden': 100, 'accuracy': 0.495}
+Start for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.000100 hidden=100
+iteration 0 / 1000: loss 2.302576
+iteration 100 / 1000: loss 1.912290
+iteration 200 / 1000: loss 1.750737
+iteration 300 / 1000: loss 1.660277
+iteration 400 / 1000: loss 1.609720
+iteration 500 / 1000: loss 1.552740
+iteration 600 / 1000: loss 1.553675
+iteration 700 / 1000: loss 1.443882
+iteration 800 / 1000: loss 1.382502
+iteration 900 / 1000: loss 1.382815
+Validation accuracy: 0.481000 
+for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.000100 hidden=100
+BEST ACC: 0.495
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 500, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>, 'hidden': 100, 'accuracy': 0.495}
+Start for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.000100 hidden=200
+iteration 0 / 1000: loss 2.302540
+iteration 100 / 1000: loss 1.884527
+iteration 200 / 1000: loss 1.754072
+iteration 300 / 1000: loss 1.639860
+iteration 400 / 1000: loss 1.563540
+iteration 500 / 1000: loss 1.628078
+iteration 600 / 1000: loss 1.533007
+iteration 700 / 1000: loss 1.437149
+iteration 800 / 1000: loss 1.452784
+iteration 900 / 1000: loss 1.451140
+Validation accuracy: 0.487000 
+for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.000100 hidden=200
+BEST ACC: 0.495
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 500, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>, 'hidden': 100, 'accuracy': 0.495}
+Start for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.500000 hidden=50
+iteration 0 / 1000: loss 2.302961
+iteration 100 / 1000: loss 2.137556
+iteration 200 / 1000: loss 1.941919
+iteration 300 / 1000: loss 1.828185
+iteration 400 / 1000: loss 1.827440
+iteration 500 / 1000: loss 1.763574
+iteration 600 / 1000: loss 1.734251
+iteration 700 / 1000: loss 1.730850
+iteration 800 / 1000: loss 1.739494
+iteration 900 / 1000: loss 1.692055
+Validation accuracy: 0.423000 
+for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.500000 hidden=50
+BEST ACC: 0.495
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 500, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>, 'hidden': 100, 'accuracy': 0.495}
+Start for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.500000 hidden=100
+iteration 0 / 1000: loss 2.303369
+iteration 100 / 1000: loss 2.100977
+iteration 200 / 1000: loss 1.936223
+iteration 300 / 1000: loss 1.899272
+iteration 400 / 1000: loss 1.815628
+iteration 500 / 1000: loss 1.736325
+iteration 600 / 1000: loss 1.733636
+iteration 700 / 1000: loss 1.675081
+iteration 800 / 1000: loss 1.618594
+iteration 900 / 1000: loss 1.684350
+Validation accuracy: 0.428000 
+for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.500000 hidden=100
+BEST ACC: 0.495
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 500, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>, 'hidden': 100, 'accuracy': 0.495}
+Start for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.500000 hidden=200
+iteration 0 / 1000: loss 2.304113
+iteration 100 / 1000: loss 2.113538
+iteration 200 / 1000: loss 1.886813
+iteration 300 / 1000: loss 1.811154
+iteration 400 / 1000: loss 1.780653
+iteration 500 / 1000: loss 1.713345
+iteration 600 / 1000: loss 1.664739
+iteration 700 / 1000: loss 1.700160
+iteration 800 / 1000: loss 1.663947
+iteration 900 / 1000: loss 1.600259
+Validation accuracy: 0.446000 
+for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.500000 hidden=200
+BEST ACC: 0.495
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 500, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>, 'hidden': 100, 'accuracy': 0.495}
+Start for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.000100 hidden=50
+iteration 0 / 1000: loss 2.302602
+iteration 100 / 1000: loss 2.128305
+iteration 200 / 1000: loss 1.930669
+iteration 300 / 1000: loss 1.873800
+iteration 400 / 1000: loss 1.778017
+iteration 500 / 1000: loss 1.761320
+iteration 600 / 1000: loss 1.729278
+iteration 700 / 1000: loss 1.678971
+iteration 800 / 1000: loss 1.695405
+iteration 900 / 1000: loss 1.651980
+Validation accuracy: 0.419000 
+for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.000100 hidden=50
+BEST ACC: 0.495
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 500, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>, 'hidden': 100, 'accuracy': 0.495}
+Start for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.000100 hidden=100
+iteration 0 / 1000: loss 2.302583
+iteration 100 / 1000: loss 2.116223
+iteration 200 / 1000: loss 1.912945
+iteration 300 / 1000: loss 1.859421
+iteration 400 / 1000: loss 1.760669
+iteration 500 / 1000: loss 1.737289
+iteration 600 / 1000: loss 1.669241
+iteration 700 / 1000: loss 1.665801
+iteration 800 / 1000: loss 1.630866
+iteration 900 / 1000: loss 1.682824
+Validation accuracy: 0.436000 
+for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.000100 hidden=100
+BEST ACC: 0.495
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 500, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>, 'hidden': 100, 'accuracy': 0.495}
+Start for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.000100 hidden=200
+iteration 0 / 1000: loss 2.302597
+iteration 100 / 1000: loss 2.083804
+iteration 200 / 1000: loss 1.894824
+iteration 300 / 1000: loss 1.795997
+iteration 400 / 1000: loss 1.776524
+iteration 500 / 1000: loss 1.681527
+iteration 600 / 1000: loss 1.693189
+iteration 700 / 1000: loss 1.653964
+iteration 800 / 1000: loss 1.642147
+iteration 900 / 1000: loss 1.664885
+Validation accuracy: 0.446000 
+for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.000100 hidden=200
+BEST ACC: 0.495
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 500, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>, 'hidden': 100, 'accuracy': 0.495}
+Start for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.500000 hidden=50
+iteration 0 / 1000: loss 2.302972
+iteration 100 / 1000: loss 2.302585
+iteration 200 / 1000: loss 2.299670
+iteration 300 / 1000: loss 2.282802
+iteration 400 / 1000: loss 2.227213
+iteration 500 / 1000: loss 2.200422
+iteration 600 / 1000: loss 2.154718
+iteration 700 / 1000: loss 2.131091
+iteration 800 / 1000: loss 2.080099
+iteration 900 / 1000: loss 2.052383
+Validation accuracy: 0.248000 
+for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.500000 hidden=50
+BEST ACC: 0.495
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 500, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>, 'hidden': 100, 'accuracy': 0.495}
+Start for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.500000 hidden=100
+
+iteration 0 / 1000: loss 2.303341
+iteration 100 / 1000: loss 2.302480
+iteration 200 / 1000: loss 2.296852
+iteration 300 / 1000: loss 2.262221
+iteration 400 / 1000: loss 2.210085
+iteration 500 / 1000: loss 2.167037
+iteration 600 / 1000: loss 2.113233
+iteration 700 / 1000: loss 2.076434
+iteration 800 / 1000: loss 2.062460
+iteration 900 / 1000: loss 2.044615
+Validation accuracy: 0.262000 
+for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.500000 hidden=100
+BEST ACC: 0.495
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 500, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>, 'hidden': 100, 'accuracy': 0.495}
+Start for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.500000 hidden=200
+iteration 0 / 1000: loss 2.304153
+iteration 100 / 1000: loss 2.302648
+iteration 200 / 1000: loss 2.292464
+iteration 300 / 1000: loss 2.248603
+iteration 400 / 1000: loss 2.181897
+iteration 500 / 1000: loss 2.162168
+iteration 600 / 1000: loss 2.134554
+iteration 700 / 1000: loss 2.126129
+iteration 800 / 1000: loss 2.044805
+iteration 900 / 1000: loss 2.031377
+Validation accuracy: 0.265000 
+for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.500000 hidden=200
+BEST ACC: 0.495
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 500, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>, 'hidden': 100, 'accuracy': 0.495}
+Start for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.000100 hidden=50
+iteration 0 / 1000: loss 2.302550
+iteration 100 / 1000: loss 2.302014
+iteration 200 / 1000: loss 2.298003
+iteration 300 / 1000: loss 2.275976
+iteration 400 / 1000: loss 2.216207
+iteration 500 / 1000: loss 2.177055
+iteration 600 / 1000: loss 2.121767
+iteration 700 / 1000: loss 2.102718
+iteration 800 / 1000: loss 2.089660
+iteration 900 / 1000: loss 2.035279
+Validation accuracy: 0.242000 
+for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.000100 hidden=50
+BEST ACC: 0.495
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 500, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>, 'hidden': 100, 'accuracy': 0.495}
+Start for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.000100 hidden=100
+iteration 0 / 1000: loss 2.302586
+iteration 100 / 1000: loss 2.301515
+iteration 200 / 1000: loss 2.295440
+iteration 300 / 1000: loss 2.266213
+iteration 400 / 1000: loss 2.224158
+iteration 500 / 1000: loss 2.158427
+iteration 600 / 1000: loss 2.142110
+iteration 700 / 1000: loss 2.072125
+iteration 800 / 1000: loss 2.046881
+iteration 900 / 1000: loss 2.044698
+Validation accuracy: 0.259000 
+for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.000100 hidden=100
+BEST ACC: 0.495
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 500, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>, 'hidden': 100, 'accuracy': 0.495}
+Start for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.000100 hidden=200
+iteration 0 / 1000: loss 2.302601
+iteration 100 / 1000: loss 2.300622
+iteration 200 / 1000: loss 2.287773
+iteration 300 / 1000: loss 2.243400
+iteration 400 / 1000: loss 2.172178
+iteration 500 / 1000: loss 2.141660
+iteration 600 / 1000: loss 2.093382
+iteration 700 / 1000: loss 2.084766
+iteration 800 / 1000: loss 2.059104
+iteration 900 / 1000: loss 2.021952
+Validation accuracy: 0.266000 
+for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.000100 hidden=200
+BEST ACC: 0.495
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 500, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>, 'hidden': 100, 'accuracy': 0.495}
+Start for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.500000 hidden=50
+iteration 0 / 1000: loss 2.302968
+iteration 100 / 1000: loss 1.955135
+iteration 200 / 1000: loss 1.802216
+iteration 300 / 1000: loss 1.715468
+iteration 400 / 1000: loss 1.706476
+iteration 500 / 1000: loss 1.646103
+iteration 600 / 1000: loss 1.544617
+iteration 700 / 1000: loss 1.596698
+iteration 800 / 1000: loss 1.559260
+iteration 900 / 1000: loss 1.553254
+Validation accuracy: 0.473000 
+for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.500000 hidden=50
+BEST ACC: 0.495
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 500, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>, 'hidden': 100, 'accuracy': 0.495}
+Start for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.500000 hidden=100
+iteration 0 / 1000: loss 2.303359
+iteration 100 / 1000: loss 1.921026
+iteration 200 / 1000: loss 1.777716
+iteration 300 / 1000: loss 1.715089
+iteration 400 / 1000: loss 1.672187
+iteration 500 / 1000: loss 1.596236
+iteration 600 / 1000: loss 1.545355
+iteration 700 / 1000: loss 1.585536
+iteration 800 / 1000: loss 1.524519
+iteration 900 / 1000: loss 1.519025
+Validation accuracy: 0.472000 
+for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.500000 hidden=100
+BEST ACC: 0.495
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 500, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>, 'hidden': 100, 'accuracy': 0.495}
+Start for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.500000 hidden=200
+iteration 0 / 1000: loss 2.304154
+iteration 100 / 1000: loss 1.943041
+iteration 200 / 1000: loss 1.733259
+iteration 300 / 1000: loss 1.680478
+iteration 400 / 1000: loss 1.579301
+iteration 500 / 1000: loss 1.584438
+iteration 600 / 1000: loss 1.558960
+iteration 700 / 1000: loss 1.526201
+iteration 800 / 1000: loss 1.572137
+iteration 900 / 1000: loss 1.519238
+Validation accuracy: 0.472000 
+for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.500000 hidden=200
+BEST ACC: 0.495
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 500, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>, 'hidden': 100, 'accuracy': 0.495}
+Start for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.000100 hidden=50
+iteration 0 / 1000: loss 2.302585
+iteration 100 / 1000: loss 1.924014
+iteration 200 / 1000: loss 1.758720
+iteration 300 / 1000: loss 1.680317
+iteration 400 / 1000: loss 1.564966
+iteration 500 / 1000: loss 1.590765
+iteration 600 / 1000: loss 1.547479
+iteration 700 / 1000: loss 1.570450
+iteration 800 / 1000: loss 1.474664
+iteration 900 / 1000: loss 1.496962
+Validation accuracy: 0.464000 
+for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.000100 hidden=50
+BEST ACC: 0.495
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 500, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>, 'hidden': 100, 'accuracy': 0.495}
+Start for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.000100 hidden=100
+iteration 0 / 1000: loss 2.302577
+iteration 100 / 1000: loss 1.906401
+iteration 200 / 1000: loss 1.761215
+iteration 300 / 1000: loss 1.722660
+iteration 400 / 1000: loss 1.635568
+iteration 500 / 1000: loss 1.529688
+iteration 600 / 1000: loss 1.497728
+iteration 700 / 1000: loss 1.487391
+iteration 800 / 1000: loss 1.482822
+iteration 900 / 1000: loss 1.457148
+Validation accuracy: 0.470000 
+for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.000100 hidden=100
+BEST ACC: 0.495
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 500, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>, 'hidden': 100, 'accuracy': 0.495}
+Start for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.000100 hidden=200
+iteration 0 / 1000: loss 2.302612
+iteration 100 / 1000: loss 1.897750
+iteration 200 / 1000: loss 1.750225
+iteration 300 / 1000: loss 1.651368
+iteration 400 / 1000: loss 1.584842
+iteration 500 / 1000: loss 1.581650
+iteration 600 / 1000: loss 1.539018
+iteration 700 / 1000: loss 1.491950
+iteration 800 / 1000: loss 1.508129
+iteration 900 / 1000: loss 1.397723
+Validation accuracy: 0.486000 
+for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.000100 hidden=200
+BEST ACC: 0.495
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 500, 'regular': 0.5, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>, 'hidden': 100, 'accuracy': 0.495}
+best model
+iterations 1000
+decay 0.95
+batchsize 500
+regular 0.5
+learning 0.001
+net <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129ed0>
+hidden 100
+accuracy 0.495
+

@@ -1,0 +1,127 @@
+Validation accuracy: 0.463000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.950000,regu=0.000010,hidden=50
+
+
+Validation accuracy: 0.456000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.950000,regu=0.000010,hidden=100
+Validation accuracy: 0.463000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.950000,regu=0.000010,hidden=200
+Validation accuracy: 0.465000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.950000,regu=0.000010,hidden=500
+
+
+Validation accuracy: 0.452000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.950000,regu=0.001000,hidden=50
+Validation accuracy: 0.454000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.950000,regu=0.001000,hidden=100
+Validation accuracy: 0.452000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.950000,regu=0.001000,hidden=200
+Validation accuracy: 0.477000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.950000,regu=0.001000,hidden=500
+
+
+Validation accuracy: 0.452000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.950000,regu=0.000100,hidden=50
+Validation accuracy: 0.446000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.950000,regu=0.000100,hidden=100
+
+Validation accuracy: 0.455000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.950000,regu=0.000100,hidden=200
+Validation accuracy: 0.463000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.950000,regu=0.000100,hidden=500
+Validation accuracy: 0.446000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.990000,regu=0.000010,hidden=50
+Validation accuracy: 0.462000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.990000,regu=0.000010,hidden=100
+Validation accuracy: 0.451000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.990000,regu=0.000010,hidden=200
+Validation accuracy: 0.476000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.990000,regu=0.000010,hidden=500
+Validation accuracy: 0.451000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.990000,regu=0.001000,hidden=50
+Validation accuracy: 0.457000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.990000,regu=0.001000,hidden=100
+Validation accuracy: 0.471000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.990000,regu=0.001000,hidden=200
+Validation accuracy: 0.469000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.990000,regu=0.001000,hidden=500
+
+Validation accuracy: 0.460000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.990000,regu=0.000100,hidden=50
+Validation accuracy: 0.467000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.990000,regu=0.000100,hidden=100
+Validation accuracy: 0.463000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.990000,regu=0.000100,hidden=200
+Validation accuracy: 0.473000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.990000,regu=0.000100,hidden=500
+Validation accuracy: 0.428000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.900000,regu=0.000010,hidden=50
+Validation accuracy: 0.454000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.900000,regu=0.000010,hidden=100
+Validation accuracy: 0.462000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.900000,regu=0.000010,hidden=200
+Validation accuracy: 0.465000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.900000,regu=0.000010,hidden=500
+Validation accuracy: 0.440000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.900000,regu=0.001000,hidden=50
+Validation accuracy: 0.459000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.900000,regu=0.001000,hidden=100
+Validation accuracy: 0.444000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.900000,regu=0.001000,hidden=200
+
+Validation accuracy: 0.472000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.900000,regu=0.001000,hidden=500
+Validation accuracy: 0.455000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.900000,regu=0.000100,hidden=50
+Validation accuracy: 0.457000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.900000,regu=0.000100,hidden=100
+Validation accuracy: 0.454000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.900000,regu=0.000100,hidden=200
+Validation accuracy: 0.454000 
+for,niter=1000,bsize=200,lr=0.000500,lrd=0.900000,regu=0.000100,hidden=500
+Validation accuracy: 0.485000 
+for,niter=1000,bsize=200,lr=0.001000,lrd=0.950000,regu=0.000010,hidden=50
+
+
+Validation accuracy: 0.493000 
+for,niter=1000,bsize=200,lr=0.001000,lrd=0.950000,regu=0.000010,hidden=100
+
+
+Validation accuracy: 0.485000 
+for,niter=1000,bsize=200,lr=0.001000,lrd=0.950000,regu=0.000010,hidden=200
+Validation accuracy: 0.511000 
+for,niter=1000,bsize=200,lr=0.001000,lrd=0.950000,regu=0.000010,hidden=500
+
+
+Validation accuracy: 0.484000 
+for,niter=1000,bsize=200,lr=0.001000,lrd=0.950000,regu=0.001000,hidden=50
+
+Validation accuracy: 0.492000 
+for,niter=1000,bsize=200,lr=0.001000,lrd=0.950000,regu=0.001000,hidden=100
+Validation accuracy: 0.490000 
+for,niter=1000,bsize=200,lr=0.001000,lrd=0.950000,regu=0.001000,hidden=200
+Validation accuracy: 0.485000 
+for,niter=1000,bsize=200,lr=0.001000,lrd=0.950000,regu=0.001000,hidden=500
+Validation accuracy: 0.474000 
+for,niter=1000,bsize=200,lr=0.001000,lrd=0.950000,regu=0.000100,hidden=50
+Validation accuracy: 0.481000 
+for,niter=1000,bsize=200,lr=0.001000,lrd=0.950000,regu=0.000100,hidden=100
+Validation accuracy: 0.498000 
+for,niter=1000,bsize=200,lr=0.001000,lrd=0.950000,regu=0.000100,hidden=200
+Validation accuracy: 0.478000 
+for,niter=1000,bsize=200,lr=0.001000,lrd=0.950000,regu=0.000100,hidden=500
+Validation accuracy: 0.465000 
+for,niter=1000,bsize=200,lr=0.001000,lrd=0.990000,regu=0.000010,hidden=50
+Validation accuracy: 0.487000 
+for,niter=1000,bsize=200,lr=0.001000,lrd=0.990000,regu=0.000010,hidden=100
+Validation accuracy: 0.465000 
+for,niter=1000,bsize=200,lr=0.001000,lrd=0.990000,regu=0.000010,hidden=200
+Validation accuracy: 0.502000 
+for,niter=1000,bsize=200,lr=0.001000,lrd=0.990000,regu=0.000010,hidden=500
+
+Validation accuracy: 0.469000 
+for,niter=1000,bsize=200,lr=0.001000,lrd=0.990000,regu=0.001000,hidden=50
+Validation accuracy: 0.503000 
+for,niter=1000,bsize=200,lr=0.001000,lrd=0.990000,regu=0.001000,hidden=100
+Validation accuracy: 0.480000 
+for,niter=1000,bsize=200,lr=0.001000,lrd=0.990000,regu=0.001000,hidden=200

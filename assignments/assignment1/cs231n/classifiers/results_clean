@@ -1,0 +1,585 @@
+Start for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.100000,hidden=50
+Validation accuracy: 0.443000 
+for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.100000,hidden=50
+
+BEST ACC: 0.443
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.1, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129f50>, 'hidden': 50, 'accuracy': 0.443}
+Start for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.100000,hidden=100
+Validation accuracy: 0.456000 
+for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.100000,hidden=100
+
+BEST ACC: 0.456
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.1, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c19a090>, 'hidden': 100, 'accuracy': 0.45600000000000002}
+Start for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.100000,hidden=200
+Validation accuracy: 0.463000 
+for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.100000,hidden=200
+
+BEST ACC: 0.463
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.1, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129f50>, 'hidden': 200, 'accuracy': 0.46300000000000002}
+Start for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.010000,hidden=50
+Validation accuracy: 0.450000 
+for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.010000,hidden=50
+
+Start for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.010000,hidden=100
+Validation accuracy: 0.462000 
+for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.010000,hidden=100
+
+Start for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.010000,hidden=200
+Validation accuracy: 0.470000 
+for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.010000,hidden=200
+
+
+Start for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.001000,hidden=50
+Validation accuracy: 0.451000 
+for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.001000,hidden=50
+
+Start for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.001000,hidden=100
+Validation accuracy: 0.452000 
+for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.001000,hidden=100
+
+Start for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.001000,hidden=200
+Validation accuracy: 0.461000 
+for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.001000,hidden=200
+
+Start for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=50
+Validation accuracy: 0.449000 
+for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=50
+BEST ACC: 0.47
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.01, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129850>, 'hidden': 200, 'accuracy': 0.46999999999999997}
+Start for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=100
+
+Validation accuracy: 0.467000 
+for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=100
+
+Start for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=200
+Validation accuracy: 0.470000 
+for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=200
+
+Start for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=5.000000,hidden=50
+Validation accuracy: 0.412000 
+for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=5.000000,hidden=50
+
+Start for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=5.000000,hidden=100
+Validation accuracy: 0.427000 
+for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=5.000000,hidden=100
+
+Start for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=5.000000,hidden=200
+Validation accuracy: 0.414000 
+for niter=1000,bsize:200,lr=0.000500,lrd=0.950000,regu=5.000000,hidden=200
+
+Start for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.100000,hidden=50
+Validation accuracy: 0.287000 
+for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.100000,hidden=50
+
+Start for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.100000,hidden=100
+Validation accuracy: 0.289000 
+for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.100000,hidden=100
+
+Start for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.100000,hidden=200
+Validation accuracy: 0.300000 
+for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.100000,hidden=200
+
+Start for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.010000,hidden=50
+Validation accuracy: 0.286000 
+for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.010000,hidden=50
+
+Start for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.010000,hidden=100
+Validation accuracy: 0.285000 
+for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.010000,hidden=100
+
+Start for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.010000,hidden=200
+Validation accuracy: 0.309000 
+for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.010000,hidden=200
+
+Start for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.001000,hidden=50
+
+Validation accuracy: 0.280000 
+for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.001000,hidden=50
+
+Start for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.001000,hidden=100
+Validation accuracy: 0.294000 
+for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.001000,hidden=100
+
+Start for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.001000,hidden=200
+Validation accuracy: 0.298000 
+for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.001000,hidden=200
+
+Start for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.000000,hidden=50
+Validation accuracy: 0.282000 
+for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.000000,hidden=50
+
+Start for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.000000,hidden=100
+Validation accuracy: 0.289000 
+for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.000000,hidden=100
+
+Start for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.000000,hidden=200
+Validation accuracy: 0.312000 
+for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=0.000000,hidden=200
+
+Start for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=5.000000,hidden=50
+Validation accuracy: 0.277000 
+for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=5.000000,hidden=50
+
+Start for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=5.000000,hidden=100
+Validation accuracy: 0.277000 
+for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=5.000000,hidden=100
+
+Start for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=5.000000,hidden=200
+Validation accuracy: 0.286000 
+for niter=1000,bsize:200,lr=0.000100,lrd=0.950000,regu=5.000000,hidden=200
+
+Start for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.100000,hidden=50
+Validation accuracy: 0.467000 
+for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.100000,hidden=50
+
+Start for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.100000,hidden=100
+Validation accuracy: 0.481000 
+for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.100000,hidden=100
+
+ACCC 0.481
+
+BEST ACC: 0.481
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.1, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129710>, 'hidden': 100, 'accuracy': 0.48099999999999998}
+Start for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.100000,hidden=200
+
+Validation accuracy: 0.499000 
+for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.100000,hidden=200
+
+ACCC 0.499
+
+BEST ACC: 0.499
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.1, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129850>, 'hidden': 200, 'accuracy': 0.499}
+Start for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.010000,hidden=50
+Validation accuracy: 0.481000 
+for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.010000,hidden=50
+BEST ACC: 0.499
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.1, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129850>, 'hidden': 200, 'accuracy': 0.499}
+Start for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.010000,hidden=100
+Validation accuracy: 0.465000 
+for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.010000,hidden=100
+BEST ACC: 0.499
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.1, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129850>, 'hidden': 200, 'accuracy': 0.499}
+Start for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.010000,hidden=200
+Validation accuracy: 0.503000 
+for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.010000,hidden=200
+
+ACCC 0.503
+
+
+Start for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.001000,hidden=50
+Validation accuracy: 0.461000 
+for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.001000,hidden=50
+BEST ACC: 0.503
+{'iterations': 1000, 'decay': 0.95, 'batchsize': 200, 'regular': 0.01, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129710>, 'hidden': 200, 'accuracy': 0.503}
+
+Start for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.001000,hidden=100
+Validation accuracy: 0.474000 
+for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.001000,hidden=100
+
+Start for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.001000,hidden=200
+Validation accuracy: 0.501000 
+for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.001000,hidden=200
+
+Start for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=50
+Validation accuracy: 0.490000 
+for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=50
+
+Start for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=100
+Validation accuracy: 0.492000 
+for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=100
+
+Start for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=200
+Validation accuracy: 0.500000 
+for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=200
+
+Start for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=5.000000,hidden=50
+Validation accuracy: 0.443000 
+for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=5.000000,hidden=50
+
+Start for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=5.000000,hidden=100
+
+Validation accuracy: 0.436000 
+for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=5.000000,hidden=100
+
+Start for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=5.000000,hidden=200
+Validation accuracy: 0.424000 
+for niter=1000,bsize:200,lr=0.001000,lrd=0.950000,regu=5.000000,hidden=200
+
+Start for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.100000,hidden=50
+Validation accuracy: 0.445000 
+for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.100000,hidden=50
+
+Start for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.100000,hidden=100
+Validation accuracy: 0.467000 
+for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.100000,hidden=100
+
+Start for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.100000,hidden=200
+Validation accuracy: 0.459000 
+for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.100000,hidden=200
+
+Start for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.010000,hidden=50
+Validation accuracy: 0.444000 
+for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.010000,hidden=50
+
+Start for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.010000,hidden=100
+Validation accuracy: 0.449000 
+for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.010000,hidden=100
+
+Start for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.010000,hidden=200
+Validation accuracy: 0.462000 
+for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.010000,hidden=200
+
+Start for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.001000,hidden=50
+Validation accuracy: 0.452000 
+for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.001000,hidden=50
+
+Start for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.001000,hidden=100
+Validation accuracy: 0.451000 
+for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.001000,hidden=100
+
+Start for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.001000,hidden=200
+Validation accuracy: 0.448000 
+for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.001000,hidden=200
+
+Start for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=50
+
+Validation accuracy: 0.437000 
+for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=50
+
+Start for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=100
+Validation accuracy: 0.448000 
+for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=100
+
+Start for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=200
+Validation accuracy: 0.457000 
+for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=200
+
+Start for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=5.000000,hidden=50
+Validation accuracy: 0.412000 
+for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=5.000000,hidden=50
+
+Start for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=5.000000,hidden=100
+Validation accuracy: 0.412000 
+for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=5.000000,hidden=100
+
+Start for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=5.000000,hidden=200
+Validation accuracy: 0.426000 
+for niter=1000,bsize:500,lr=0.000500,lrd=0.950000,regu=5.000000,hidden=200
+
+Start for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.100000,hidden=50
+Validation accuracy: 0.278000 
+for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.100000,hidden=50
+
+Start for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.100000,hidden=100
+Validation accuracy: 0.279000 
+for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.100000,hidden=100
+
+Start for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.100000,hidden=200
+Validation accuracy: 0.289000 
+for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.100000,hidden=200
+
+Start for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.010000,hidden=50
+Validation accuracy: 0.274000 
+for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.010000,hidden=50
+
+Start for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.010000,hidden=100
+Validation accuracy: 0.279000 
+for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.010000,hidden=100
+
+Start for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.010000,hidden=200
+
+Validation accuracy: 0.287000 
+for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.010000,hidden=200
+
+Start for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.001000,hidden=50
+Validation accuracy: 0.274000 
+for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.001000,hidden=50
+
+Start for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.001000,hidden=100
+Validation accuracy: 0.283000 
+for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.001000,hidden=100
+
+Start for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.001000,hidden=200
+Validation accuracy: 0.286000 
+for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.001000,hidden=200
+
+Start for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.000000,hidden=50
+Validation accuracy: 0.275000 
+for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.000000,hidden=50
+
+Start for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.000000,hidden=100
+Validation accuracy: 0.282000 
+for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.000000,hidden=100
+
+Start for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.000000,hidden=200
+Validation accuracy: 0.285000 
+for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=0.000000,hidden=200
+
+Start for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=5.000000,hidden=50
+Validation accuracy: 0.267000 
+for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=5.000000,hidden=50
+
+Start for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=5.000000,hidden=100
+Validation accuracy: 0.264000 
+for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=5.000000,hidden=100
+
+Start for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=5.000000,hidden=200
+Validation accuracy: 0.282000 
+for niter=1000,bsize:500,lr=0.000100,lrd=0.950000,regu=5.000000,hidden=200
+
+Start for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.100000,hidden=50
+Validation accuracy: 0.455000 
+for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.100000,hidden=50
+
+Start for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.100000,hidden=100
+
+Validation accuracy: 0.490000 
+for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.100000,hidden=100
+
+Start for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.100000,hidden=200
+Validation accuracy: 0.491000 
+for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.100000,hidden=200
+
+Start for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.010000,hidden=50
+Validation accuracy: 0.476000 
+for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.010000,hidden=50
+
+Start for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.010000,hidden=100
+Validation accuracy: 0.481000 
+for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.010000,hidden=100
+
+Start for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.010000,hidden=200
+Validation accuracy: 0.476000 
+for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.010000,hidden=200
+
+Start for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.001000,hidden=50
+Validation accuracy: 0.465000 
+for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.001000,hidden=50
+
+Start for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.001000,hidden=100
+Validation accuracy: 0.479000 
+for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.001000,hidden=100
+
+Start for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.001000,hidden=200
+Validation accuracy: 0.482000 
+for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.001000,hidden=200
+
+Start for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=50
+Validation accuracy: 0.484000 
+for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=50
+
+Start for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=100
+Validation accuracy: 0.475000 
+for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=100
+
+Start for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=200
+Validation accuracy: 0.495000 
+for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=200
+
+Start for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=5.000000,hidden=50
+
+Validation accuracy: 0.446000 
+for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=5.000000,hidden=50
+
+Start for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=5.000000,hidden=100
+Validation accuracy: 0.451000 
+for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=5.000000,hidden=100
+
+Start for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=5.000000,hidden=200
+Validation accuracy: 0.450000 
+for niter=1000,bsize:500,lr=0.001000,lrd=0.950000,regu=5.000000,hidden=200
+
+Start for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.100000,hidden=50
+Validation accuracy: 0.423000 
+for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.100000,hidden=50
+
+Start for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.100000,hidden=100
+Validation accuracy: 0.432000 
+for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.100000,hidden=100
+
+Start for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.100000,hidden=200
+Validation accuracy: 0.450000 
+for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.100000,hidden=200
+
+Start for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.010000,hidden=50
+Validation accuracy: 0.430000 
+for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.010000,hidden=50
+
+Start for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.010000,hidden=100
+Validation accuracy: 0.442000 
+for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.010000,hidden=100
+
+Start for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.010000,hidden=200
+Validation accuracy: 0.447000 
+for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.010000,hidden=200
+
+Start for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.001000,hidden=50
+Validation accuracy: 0.423000 
+for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.001000,hidden=50
+
+Start for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.001000,hidden=100
+Validation accuracy: 0.435000 
+for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.001000,hidden=100
+
+Start for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.001000,hidden=200
+
+Validation accuracy: 0.440000 
+for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.001000,hidden=200
+
+Start for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=50
+Validation accuracy: 0.425000 
+for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=50
+
+Start for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=100
+Validation accuracy: 0.438000 
+for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=100
+
+Start for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=200
+Validation accuracy: 0.445000 
+for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=200
+
+Start for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=5.000000,hidden=50
+Validation accuracy: 0.406000 
+for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=5.000000,hidden=50
+
+Start for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=5.000000,hidden=100
+Validation accuracy: 0.397000 
+for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=5.000000,hidden=100
+
+Start for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=5.000000,hidden=200
+Validation accuracy: 0.402000 
+for niter=1000,bsize:1000,lr=0.000500,lrd=0.950000,regu=5.000000,hidden=200
+
+Start for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.100000,hidden=50
+Validation accuracy: 0.243000 
+for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.100000,hidden=50
+
+Start for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.100000,hidden=100
+Validation accuracy: 0.250000 
+for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.100000,hidden=100
+
+Start for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.100000,hidden=200
+Validation accuracy: 0.268000 
+for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.100000,hidden=200
+
+Start for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.010000,hidden=50
+Validation accuracy: 0.248000 
+for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.010000,hidden=50
+
+Start for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.010000,hidden=100
+
+Validation accuracy: 0.257000 
+for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.010000,hidden=100
+
+Start for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.010000,hidden=200
+Validation accuracy: 0.271000 
+for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.010000,hidden=200
+
+Start for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.001000,hidden=50
+Validation accuracy: 0.248000 
+for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.001000,hidden=50
+
+Start for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.001000,hidden=100
+Validation accuracy: 0.256000 
+for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.001000,hidden=100
+
+Start for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.001000,hidden=200
+Validation accuracy: 0.268000 
+for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.001000,hidden=200
+
+Start for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.000000,hidden=50
+Validation accuracy: 0.250000 
+for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.000000,hidden=50
+
+Start for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.000000,hidden=100
+Validation accuracy: 0.259000 
+for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.000000,hidden=100
+
+Start for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.000000,hidden=200
+Validation accuracy: 0.268000 
+for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=0.000000,hidden=200
+
+Start for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=5.000000,hidden=50
+Validation accuracy: 0.248000 
+for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=5.000000,hidden=50
+
+Start for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=5.000000,hidden=100
+Validation accuracy: 0.254000 
+for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=5.000000,hidden=100
+
+Start for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=5.000000,hidden=200
+Validation accuracy: 0.259000 
+for niter=1000,bsize:1000,lr=0.000100,lrd=0.950000,regu=5.000000,hidden=200
+
+Start for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.100000,hidden=50
+
+Validation accuracy: 0.476000 
+for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.100000,hidden=50
+
+Start for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.100000,hidden=100
+Validation accuracy: 0.477000 
+for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.100000,hidden=100
+
+Start for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.100000,hidden=200
+Validation accuracy: 0.482000 
+for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.100000,hidden=200
+
+Start for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.010000,hidden=50
+Validation accuracy: 0.472000 
+for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.010000,hidden=50
+
+Start for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.010000,hidden=100
+Validation accuracy: 0.473000 
+for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.010000,hidden=100
+
+Start for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.010000,hidden=200
+Validation accuracy: 0.483000 
+for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.010000,hidden=200
+
+Start for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.001000,hidden=50
+Validation accuracy: 0.464000 
+for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.001000,hidden=50
+
+Start for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.001000,hidden=100
+Validation accuracy: 0.482000 
+for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.001000,hidden=100
+
+Start for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.001000,hidden=200
+Validation accuracy: 0.479000 
+for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.001000,hidden=200
+
+Start for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=50
+Validation accuracy: 0.465000 
+for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=50
+
+Start for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=100
+Validation accuracy: 0.482000 
+for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=100
+
+Start for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=200
+
+Validation accuracy: 0.482000 
+for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=200
+
+Start for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=5.000000,hidden=50
+Validation accuracy: 0.437000 
+for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=5.000000,hidden=50
+
+Start for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=5.000000,hidden=100
+Validation accuracy: 0.441000 
+for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=5.000000,hidden=100
+
+Start for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=5.000000,hidden=200
+Validation accuracy: 0.455000 
+for niter=1000,bsize:1000,lr=0.001000,lrd=0.950000,regu=5.000000,hidden=200
+
+best model
+iterations 1000
+decay 0.95
+batchsize 200
+regular 0.01
+learning 0.001
+net <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c129710>
+hidden 200
+accuracy 0.503
+

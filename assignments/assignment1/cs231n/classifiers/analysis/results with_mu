@@ -1,0 +1,1402 @@
+need total runs 16
+HI
+remaining runs: 16
+Start for niter=5000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=200,mu=0.100000
+iteration 0 / 5000: loss 2.302584 learning rate=0.001000
+iteration 100 / 5000: loss 1.677611 learning rate=0.000950
+iteration 200 / 5000: loss 1.544589 learning rate=0.000950
+iteration 300 / 5000: loss 1.521212 learning rate=0.000902
+iteration 400 / 5000: loss 1.503556 learning rate=0.000902
+iteration 500 / 5000: loss 1.590667 learning rate=0.000857
+iteration 600 / 5000: loss 1.296725 learning rate=0.000857
+iteration 700 / 5000: loss 1.289082 learning rate=0.000857
+iteration 800 / 5000: loss 1.273284 learning rate=0.000815
+iteration 900 / 5000: loss 1.462924 learning rate=0.000815
+iteration 1000 / 5000: loss 1.274777 learning rate=0.000774
+iteration 1100 / 5000: loss 1.335178 learning rate=0.000774
+iteration 1200 / 5000: loss 1.336416 learning rate=0.000774
+iteration 1300 / 5000: loss 1.223703 learning rate=0.000735
+iteration 1400 / 5000: loss 1.503434 learning rate=0.000735
+iteration 1500 / 5000: loss 1.213163 learning rate=0.000698
+iteration 1600 / 5000: loss 1.305091 learning rate=0.000698
+iteration 1700 / 5000: loss 1.397569 learning rate=0.000698
+iteration 1800 / 5000: loss 1.098964 learning rate=0.000663
+iteration 1900 / 5000: loss 1.316465 learning rate=0.000663
+iteration 2000 / 5000: loss 1.121571 learning rate=0.000630
+iteration 2100 / 5000: loss 1.117678 learning rate=0.000630
+iteration 2200 / 5000: loss 1.205374 learning rate=0.000630
+iteration 2300 / 5000: loss 1.049069 learning rate=0.000599
+iteration 2400 / 5000: loss 1.205025 learning rate=0.000599
+iteration 2500 / 5000: loss 1.120928 learning rate=0.000569
+iteration 2600 / 5000: loss 1.160347 learning rate=0.000569
+iteration 2700 / 5000: loss 1.213956 learning rate=0.000540
+iteration 2800 / 5000: loss 1.106141 learning rate=0.000540
+iteration 2900 / 5000: loss 0.942279 learning rate=0.000540
+iteration 3000 / 5000: loss 0.983254 learning rate=0.000513
+iteration 3100 / 5000: loss 1.030032 learning rate=0.000513
+iteration 3200 / 5000: loss 1.010867 learning rate=0.000488
+iteration 3300 / 5000: loss 0.881751 learning rate=0.000488
+iteration 3400 / 5000: loss 0.978557 learning rate=0.000488
+iteration 3500 / 5000: loss 1.099702 learning rate=0.000463
+iteration 3600 / 5000: loss 0.800612 learning rate=0.000463
+iteration 3700 / 5000: loss 0.929091 learning rate=0.000440
+iteration 3800 / 5000: loss 0.995386 learning rate=0.000440
+iteration 3900 / 5000: loss 1.016338 learning rate=0.000440
+iteration 4000 / 5000: loss 0.916092 learning rate=0.000418
+iteration 4100 / 5000: loss 0.887154 learning rate=0.000418
+iteration 4200 / 5000: loss 0.804947 learning rate=0.000397
+iteration 4300 / 5000: loss 0.853826 learning rate=0.000397
+iteration 4400 / 5000: loss 0.823425 learning rate=0.000397
+iteration 4500 / 5000: loss 0.880392 learning rate=0.000377
+iteration 4600 / 5000: loss 0.936563 learning rate=0.000377
+iteration 4700 / 5000: loss 0.811197 learning rate=0.000358
+iteration 4800 / 5000: loss 0.858692 learning rate=0.000358
+iteration 4900 / 5000: loss 0.795584 learning rate=0.000358
+Validation accuracy: 0.515000 
+for,niter=5000,bsize=200,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=200,mu=0
+
+ACCC 0.515
+
+BEST ACC: 0.515
+{'iterations': 5000, 'decay': 0.95, 'batchsize': 200, 'mu': 0.1, 'regular': 0, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c1b7750>, 'hidden': 200, 'accuracy': 0.51500000000000001}
+remaining runs: 15
+Start for niter=5000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=200,mu=0.200000
+iteration 0 / 5000: loss 2.302591 learning rate=0.001000
+iteration 100 / 5000: loss 1.773373 learning rate=0.000950
+iteration 200 / 5000: loss 1.629424 learning rate=0.000950
+iteration 300 / 5000: loss 1.580240 learning rate=0.000902
+iteration 400 / 5000: loss 1.423633 learning rate=0.000902
+iteration 500 / 5000: loss 1.419527 learning rate=0.000857
+iteration 600 / 5000: loss 1.368173 learning rate=0.000857
+iteration 700 / 5000: loss 1.433845 learning rate=0.000857
+iteration 800 / 5000: loss 1.382920 learning rate=0.000815
+iteration 900 / 5000: loss 1.534034 learning rate=0.000815
+iteration 1000 / 5000: loss 1.461098 learning rate=0.000774
+iteration 1100 / 5000: loss 1.240069 learning rate=0.000774
+iteration 1200 / 5000: loss 1.370282 learning rate=0.000774
+iteration 1300 / 5000: loss 1.258805 learning rate=0.000735
+iteration 1400 / 5000: loss 1.300219 learning rate=0.000735
+iteration 1500 / 5000: loss 1.174734 learning rate=0.000698
+iteration 1600 / 5000: loss 1.334976 learning rate=0.000698
+iteration 1700 / 5000: loss 1.414909 learning rate=0.000698
+iteration 1800 / 5000: loss 1.242159 learning rate=0.000663
+iteration 1900 / 5000: loss 1.140481 learning rate=0.000663
+iteration 2000 / 5000: loss 1.241858 learning rate=0.000630
+iteration 2100 / 5000: loss 1.278814 learning rate=0.000630
+iteration 2200 / 5000: loss 1.271895 learning rate=0.000630
+iteration 2300 / 5000: loss 0.975986 learning rate=0.000599
+iteration 2400 / 5000: loss 1.054951 learning rate=0.000599
+iteration 2500 / 5000: loss 1.065652 learning rate=0.000569
+iteration 2600 / 5000: loss 1.305758 learning rate=0.000569
+iteration 2700 / 5000: loss 0.898052 learning rate=0.000540
+iteration 2800 / 5000: loss 1.170527 learning rate=0.000540
+iteration 2900 / 5000: loss 1.245511 learning rate=0.000540
+iteration 3000 / 5000: loss 1.142136 learning rate=0.000513
+iteration 3100 / 5000: loss 1.112475 learning rate=0.000513
+iteration 3200 / 5000: loss 0.987243 learning rate=0.000488
+iteration 3300 / 5000: loss 0.948388 learning rate=0.000488
+iteration 3400 / 5000: loss 1.074283 learning rate=0.000488
+iteration 3500 / 5000: loss 0.939183 learning rate=0.000463
+iteration 3600 / 5000: loss 1.038471 learning rate=0.000463
+iteration 3700 / 5000: loss 0.994794 learning rate=0.000440
+iteration 3800 / 5000: loss 0.921168 learning rate=0.000440
+iteration 3900 / 5000: loss 1.025317 learning rate=0.000440
+iteration 4000 / 5000: loss 0.935403 learning rate=0.000418
+iteration 4100 / 5000: loss 0.882101 learning rate=0.000418
+iteration 4200 / 5000: loss 0.945728 learning rate=0.000397
+iteration 4300 / 5000: loss 0.743061 learning rate=0.000397
+iteration 4400 / 5000: loss 0.856021 learning rate=0.000397
+iteration 4500 / 5000: loss 0.902672 learning rate=0.000377
+iteration 4600 / 5000: loss 0.931416 learning rate=0.000377
+iteration 4700 / 5000: loss 0.670242 learning rate=0.000358
+iteration 4800 / 5000: loss 0.796640 learning rate=0.000358
+iteration 4900 / 5000: loss 0.732690 learning rate=0.000358
+Validation accuracy: 0.524000 
+for,niter=5000,bsize=200,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=200,mu=0
+
+ACCC 0.524
+
+BEST ACC: 0.524
+{'iterations': 5000, 'decay': 0.95, 'batchsize': 200, 'mu': 0.2, 'regular': 0, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2a1050d0>, 'hidden': 200, 'accuracy': 0.52400000000000002}
+remaining runs: 14
+Start for niter=5000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=200,mu=0.100000
+iteration 0 / 5000: loss 2.302566 learning rate=0.000500
+iteration 100 / 5000: loss 1.904995 learning rate=0.000475
+iteration 200 / 5000: loss 1.677333 learning rate=0.000475
+iteration 300 / 5000: loss 1.661576 learning rate=0.000451
+iteration 400 / 5000: loss 1.546531 learning rate=0.000451
+iteration 500 / 5000: loss 1.594200 learning rate=0.000429
+iteration 600 / 5000: loss 1.646892 learning rate=0.000429
+iteration 700 / 5000: loss 1.415174 learning rate=0.000429
+iteration 800 / 5000: loss 1.485376 learning rate=0.000407
+iteration 900 / 5000: loss 1.436032 learning rate=0.000407
+iteration 1000 / 5000: loss 1.364218 learning rate=0.000387
+iteration 1100 / 5000: loss 1.329708 learning rate=0.000387
+iteration 1200 / 5000: loss 1.385226 learning rate=0.000387
+iteration 1300 / 5000: loss 1.378567 learning rate=0.000368
+iteration 1400 / 5000: loss 1.315694 learning rate=0.000368
+iteration 1500 / 5000: loss 1.285456 learning rate=0.000349
+iteration 1600 / 5000: loss 1.318449 learning rate=0.000349
+iteration 1700 / 5000: loss 1.144696 learning rate=0.000349
+iteration 1800 / 5000: loss 1.265102 learning rate=0.000332
+iteration 1900 / 5000: loss 1.247665 learning rate=0.000332
+
+iteration 2000 / 5000: loss 1.129674 learning rate=0.000315
+iteration 2100 / 5000: loss 1.132869 learning rate=0.000315
+iteration 2200 / 5000: loss 1.173579 learning rate=0.000315
+iteration 2300 / 5000: loss 1.183661 learning rate=0.000299
+iteration 2400 / 5000: loss 1.228040 learning rate=0.000299
+iteration 2500 / 5000: loss 1.212638 learning rate=0.000284
+iteration 2600 / 5000: loss 1.069753 learning rate=0.000284
+iteration 2700 / 5000: loss 1.081795 learning rate=0.000270
+iteration 2800 / 5000: loss 1.120278 learning rate=0.000270
+iteration 2900 / 5000: loss 1.221000 learning rate=0.000270
+iteration 3000 / 5000: loss 1.073229 learning rate=0.000257
+iteration 3100 / 5000: loss 1.117375 learning rate=0.000257
+iteration 3200 / 5000: loss 1.090929 learning rate=0.000244
+iteration 3300 / 5000: loss 0.964412 learning rate=0.000244
+iteration 3400 / 5000: loss 1.033353 learning rate=0.000244
+iteration 3500 / 5000: loss 1.027375 learning rate=0.000232
+iteration 3600 / 5000: loss 1.022366 learning rate=0.000232
+iteration 3700 / 5000: loss 0.915078 learning rate=0.000220
+iteration 3800 / 5000: loss 1.035693 learning rate=0.000220
+iteration 3900 / 5000: loss 0.995839 learning rate=0.000220
+iteration 4000 / 5000: loss 0.948428 learning rate=0.000209
+iteration 4100 / 5000: loss 0.871113 learning rate=0.000209
+iteration 4200 / 5000: loss 0.998452 learning rate=0.000199
+iteration 4300 / 5000: loss 0.925119 learning rate=0.000199
+iteration 4400 / 5000: loss 0.849823 learning rate=0.000199
+iteration 4500 / 5000: loss 0.943370 learning rate=0.000189
+iteration 4600 / 5000: loss 0.823263 learning rate=0.000189
+iteration 4700 / 5000: loss 0.976482 learning rate=0.000179
+iteration 4800 / 5000: loss 0.880440 learning rate=0.000179
+iteration 4900 / 5000: loss 0.893133 learning rate=0.000179
+Validation accuracy: 0.519000 
+for,niter=5000,bsize=200,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=200,mu=0
+BEST ACC: 0.524
+{'iterations': 5000, 'decay': 0.95, 'batchsize': 200, 'mu': 0.2, 'regular': 0, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2a1050d0>, 'hidden': 200, 'accuracy': 0.52400000000000002}
+remaining runs: 13
+Start for niter=5000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=200,mu=0.200000
+iteration 0 / 5000: loss 2.302608 learning rate=0.000500
+iteration 100 / 5000: loss 1.896726 learning rate=0.000475
+iteration 200 / 5000: loss 1.696642 learning rate=0.000475
+iteration 300 / 5000: loss 1.774921 learning rate=0.000451
+iteration 400 / 5000: loss 1.578995 learning rate=0.000451
+iteration 500 / 5000: loss 1.469404 learning rate=0.000429
+iteration 600 / 5000: loss 1.574304 learning rate=0.000429
+iteration 700 / 5000: loss 1.467611 learning rate=0.000429
+iteration 800 / 5000: loss 1.416635 learning rate=0.000407
+iteration 900 / 5000: loss 1.352617 learning rate=0.000407
+iteration 1000 / 5000: loss 1.339493 learning rate=0.000387
+iteration 1100 / 5000: loss 1.434466 learning rate=0.000387
+iteration 1200 / 5000: loss 1.334817 learning rate=0.000387
+iteration 1300 / 5000: loss 1.379506 learning rate=0.000368
+iteration 1400 / 5000: loss 1.318574 learning rate=0.000368
+iteration 1500 / 5000: loss 1.329889 learning rate=0.000349
+iteration 1600 / 5000: loss 1.255839 learning rate=0.000349
+iteration 1700 / 5000: loss 1.374713 learning rate=0.000349
+iteration 1800 / 5000: loss 1.180807 learning rate=0.000332
+iteration 1900 / 5000: loss 1.231098 learning rate=0.000332
+iteration 2000 / 5000: loss 1.099981 learning rate=0.000315
+iteration 2100 / 5000: loss 1.152662 learning rate=0.000315
+iteration 2200 / 5000: loss 1.120443 learning rate=0.000315
+iteration 2300 / 5000: loss 1.094145 learning rate=0.000299
+iteration 2400 / 5000: loss 1.235685 learning rate=0.000299
+iteration 2500 / 5000: loss 1.090327 learning rate=0.000284
+iteration 2600 / 5000: loss 0.980083 learning rate=0.000284
+iteration 2700 / 5000: loss 1.163777 learning rate=0.000270
+iteration 2800 / 5000: loss 1.073776 learning rate=0.000270
+iteration 2900 / 5000: loss 1.131523 learning rate=0.000270
+iteration 3000 / 5000: loss 1.052108 learning rate=0.000257
+iteration 3100 / 5000: loss 1.104954 learning rate=0.000257
+iteration 3200 / 5000: loss 0.953406 learning rate=0.000244
+iteration 3300 / 5000: loss 1.039399 learning rate=0.000244
+iteration 3400 / 5000: loss 1.154762 learning rate=0.000244
+iteration 3500 / 5000: loss 1.103228 learning rate=0.000232
+iteration 3600 / 5000: loss 1.066198 learning rate=0.000232
+iteration 3700 / 5000: loss 0.975514 learning rate=0.000220
+iteration 3800 / 5000: loss 0.916911 learning rate=0.000220
+iteration 3900 / 5000: loss 1.158681 learning rate=0.000220
+iteration 4000 / 5000: loss 0.928447 learning rate=0.000209
+iteration 4100 / 5000: loss 0.996580 learning rate=0.000209
+iteration 4200 / 5000: loss 0.955802 learning rate=0.000199
+iteration 4300 / 5000: loss 0.878534 learning rate=0.000199
+iteration 4400 / 5000: loss 0.904816 learning rate=0.000199
+iteration 4500 / 5000: loss 0.795382 learning rate=0.000189
+iteration 4600 / 5000: loss 0.881768 learning rate=0.000189
+iteration 4700 / 5000: loss 0.998618 learning rate=0.000179
+iteration 4800 / 5000: loss 0.893564 learning rate=0.000179
+iteration 4900 / 5000: loss 0.917332 learning rate=0.000179
+Validation accuracy: 0.540000 
+for,niter=5000,bsize=200,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=200,mu=0
+
+ACCC 0.54
+
+
+
+
+BEST ACC: 0.54
+{'iterations': 5000, 'decay': 0.95, 'batchsize': 200, 'mu': 0.2, 'regular': 0, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c1b7750>, 'hidden': 200, 'accuracy': 0.54000000000000004}
+remaining runs: 12
+Start for niter=5000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=200,mu=0.100000
+iteration 0 / 5000: loss 2.302625 learning rate=0.001000
+iteration 100 / 5000: loss 1.761432 learning rate=0.000902
+iteration 200 / 5000: loss 1.638125 learning rate=0.000857
+iteration 300 / 5000: loss 1.597344 learning rate=0.000815
+iteration 400 / 5000: loss 1.533464 learning rate=0.000774
+iteration 500 / 5000: loss 1.389717 learning rate=0.000735
+iteration 600 / 5000: loss 1.382070 learning rate=0.000698
+iteration 700 / 5000: loss 1.235182 learning rate=0.000663
+iteration 800 / 5000: loss 1.439792 learning rate=0.000630
+iteration 900 / 5000: loss 1.377705 learning rate=0.000599
+iteration 1000 / 5000: loss 1.264559 learning rate=0.000569
+iteration 1100 / 5000: loss 1.185568 learning rate=0.000540
+iteration 1200 / 5000: loss 1.131528 learning rate=0.000513
+iteration 1300 / 5000: loss 1.178179 learning rate=0.000488
+iteration 1400 / 5000: loss 1.091700 learning rate=0.000463
+iteration 1500 / 5000: loss 1.138373 learning rate=0.000440
+iteration 1600 / 5000: loss 1.130924 learning rate=0.000418
+iteration 1700 / 5000: loss 1.050623 learning rate=0.000397
+iteration 1800 / 5000: loss 1.040308 learning rate=0.000377
+iteration 1900 / 5000: loss 1.091800 learning rate=0.000358
+iteration 2000 / 5000: loss 0.950908 learning rate=0.000341
+iteration 2100 / 5000: loss 0.999793 learning rate=0.000324
+iteration 2200 / 5000: loss 0.981342 learning rate=0.000307
+iteration 2300 / 5000: loss 1.015502 learning rate=0.000292
+iteration 2400 / 5000: loss 0.926555 learning rate=0.000277
+iteration 2500 / 5000: loss 0.938859 learning rate=0.000264
+iteration 2600 / 5000: loss 0.857177 learning rate=0.000250
+iteration 2700 / 5000: loss 0.842966 learning rate=0.000238
+iteration 2800 / 5000: loss 0.894792 learning rate=0.000226
+iteration 2900 / 5000: loss 0.865744 learning rate=0.000215
+iteration 3000 / 5000: loss 0.867080 learning rate=0.000204
+iteration 3100 / 5000: loss 0.906116 learning rate=0.000194
+iteration 3200 / 5000: loss 0.885615 learning rate=0.000184
+iteration 3300 / 5000: loss 0.830449 learning rate=0.000175
+iteration 3400 / 5000: loss 0.833494 learning rate=0.000166
+iteration 3500 / 5000: loss 0.808335 learning rate=0.000158
+iteration 3600 / 5000: loss 0.849126 learning rate=0.000150
+iteration 3700 / 5000: loss 0.815557 learning rate=0.000142
+iteration 3800 / 5000: loss 0.755729 learning rate=0.000135
+iteration 3900 / 5000: loss 0.865205 learning rate=0.000129
+iteration 4000 / 5000: loss 0.810964 learning rate=0.000122
+iteration 4100 / 5000: loss 0.735056 learning rate=0.000116
+
+iteration 4200 / 5000: loss 0.713775 learning rate=0.000110
+iteration 4300 / 5000: loss 0.730873 learning rate=0.000105
+iteration 4400 / 5000: loss 0.712091 learning rate=0.000099
+iteration 4500 / 5000: loss 0.807153 learning rate=0.000094
+iteration 4600 / 5000: loss 0.738286 learning rate=0.000090
+iteration 4700 / 5000: loss 0.751650 learning rate=0.000085
+iteration 4800 / 5000: loss 0.637222 learning rate=0.000081
+iteration 4900 / 5000: loss 0.711859 learning rate=0.000077
+Validation accuracy: 0.539000 
+for,niter=5000,bsize=500,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=200,mu=0
+BEST ACC: 0.54
+{'iterations': 5000, 'decay': 0.95, 'batchsize': 200, 'mu': 0.2, 'regular': 0, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c1b7750>, 'hidden': 200, 'accuracy': 0.54000000000000004}
+remaining runs: 11
+Start for niter=5000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=200,mu=0.200000
+iteration 0 / 5000: loss 2.302578 learning rate=0.001000
+iteration 100 / 5000: loss 1.698618 learning rate=0.000902
+iteration 200 / 5000: loss 1.434263 learning rate=0.000857
+iteration 300 / 5000: loss 1.689864 learning rate=0.000815
+iteration 400 / 5000: loss 1.438968 learning rate=0.000774
+iteration 500 / 5000: loss 1.367556 learning rate=0.000735
+iteration 600 / 5000: loss 1.343050 learning rate=0.000698
+iteration 700 / 5000: loss 1.427734 learning rate=0.000663
+iteration 800 / 5000: loss 1.267530 learning rate=0.000630
+iteration 900 / 5000: loss 1.224872 learning rate=0.000599
+iteration 1000 / 5000: loss 1.135942 learning rate=0.000569
+iteration 1100 / 5000: loss 1.051727 learning rate=0.000540
+iteration 1200 / 5000: loss 1.191457 learning rate=0.000513
+iteration 1300 / 5000: loss 1.083103 learning rate=0.000488
+iteration 1400 / 5000: loss 1.124611 learning rate=0.000463
+iteration 1500 / 5000: loss 1.078201 learning rate=0.000440
+iteration 1600 / 5000: loss 1.083469 learning rate=0.000418
+iteration 1700 / 5000: loss 1.044921 learning rate=0.000397
+iteration 1800 / 5000: loss 1.089094 learning rate=0.000377
+iteration 1900 / 5000: loss 1.053722 learning rate=0.000358
+iteration 2000 / 5000: loss 0.959322 learning rate=0.000341
+iteration 2100 / 5000: loss 0.964610 learning rate=0.000324
+iteration 2200 / 5000: loss 0.967501 learning rate=0.000307
+iteration 2300 / 5000: loss 0.896437 learning rate=0.000292
+iteration 2400 / 5000: loss 0.944149 learning rate=0.000277
+iteration 2500 / 5000: loss 0.884322 learning rate=0.000264
+iteration 2600 / 5000: loss 0.906133 learning rate=0.000250
+iteration 2700 / 5000: loss 0.867464 learning rate=0.000238
+iteration 2800 / 5000: loss 0.899304 learning rate=0.000226
+iteration 2900 / 5000: loss 0.873802 learning rate=0.000215
+iteration 3000 / 5000: loss 0.889287 learning rate=0.000204
+iteration 3100 / 5000: loss 0.798990 learning rate=0.000194
+iteration 3200 / 5000: loss 0.795606 learning rate=0.000184
+iteration 3300 / 5000: loss 0.818706 learning rate=0.000175
+iteration 3400 / 5000: loss 0.755352 learning rate=0.000166
+iteration 3500 / 5000: loss 0.827402 learning rate=0.000158
+iteration 3600 / 5000: loss 0.731214 learning rate=0.000150
+iteration 3700 / 5000: loss 0.758643 learning rate=0.000142
+iteration 3800 / 5000: loss 0.797302 learning rate=0.000135
+iteration 3900 / 5000: loss 0.712410 learning rate=0.000129
+iteration 4000 / 5000: loss 0.685557 learning rate=0.000122
+iteration 4100 / 5000: loss 0.688635 learning rate=0.000116
+iteration 4200 / 5000: loss 0.726652 learning rate=0.000110
+iteration 4300 / 5000: loss 0.629696 learning rate=0.000105
+iteration 4400 / 5000: loss 0.761391 learning rate=0.000099
+iteration 4500 / 5000: loss 0.680605 learning rate=0.000094
+iteration 4600 / 5000: loss 0.713301 learning rate=0.000090
+iteration 4700 / 5000: loss 0.639875 learning rate=0.000085
+iteration 4800 / 5000: loss 0.704636 learning rate=0.000081
+iteration 4900 / 5000: loss 0.695129 learning rate=0.000077
+Validation accuracy: 0.549000 
+for,niter=5000,bsize=500,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=200,mu=0
+
+ACCC 0.549
+
+BEST ACC: 0.549
+{'iterations': 5000, 'decay': 0.95, 'batchsize': 500, 'mu': 0.2, 'regular': 0, 'learning': 0.001, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2c1b7d10>, 'hidden': 200, 'accuracy': 0.54900000000000004}
+remaining runs: 10
+Start for niter=5000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=200,mu=0.100000
+iteration 0 / 5000: loss 2.302544 learning rate=0.000500
+iteration 100 / 5000: loss 1.857889 learning rate=0.000451
+iteration 200 / 5000: loss 1.751007 learning rate=0.000429
+iteration 300 / 5000: loss 1.626784 learning rate=0.000407
+iteration 400 / 5000: loss 1.528576 learning rate=0.000387
+iteration 500 / 5000: loss 1.508446 learning rate=0.000368
+iteration 600 / 5000: loss 1.442028 learning rate=0.000349
+iteration 700 / 5000: loss 1.385663 learning rate=0.000332
+iteration 800 / 5000: loss 1.337045 learning rate=0.000315
+iteration 900 / 5000: loss 1.395573 learning rate=0.000299
+iteration 1000 / 5000: loss 1.378052 learning rate=0.000284
+iteration 1100 / 5000: loss 1.338539 learning rate=0.000270
+iteration 1200 / 5000: loss 1.316985 learning rate=0.000257
+iteration 1300 / 5000: loss 1.286014 learning rate=0.000244
+iteration 1400 / 5000: loss 1.288827 learning rate=0.000232
+iteration 1500 / 5000: loss 1.135610 learning rate=0.000220
+iteration 1600 / 5000: loss 1.283317 learning rate=0.000209
+iteration 1700 / 5000: loss 1.205726 learning rate=0.000199
+iteration 1800 / 5000: loss 1.194048 learning rate=0.000189
+iteration 1900 / 5000: loss 1.236697 learning rate=0.000179
+iteration 2000 / 5000: loss 1.189068 learning rate=0.000170
+iteration 2100 / 5000: loss 1.036471 learning rate=0.000162
+iteration 2200 / 5000: loss 1.145014 learning rate=0.000154
+iteration 2300 / 5000: loss 1.194462 learning rate=0.000146
+iteration 2400 / 5000: loss 1.149417 learning rate=0.000139
+iteration 2500 / 5000: loss 1.158147 learning rate=0.000132
+iteration 2600 / 5000: loss 1.159990 learning rate=0.000125
+iteration 2700 / 5000: loss 1.078198 learning rate=0.000119
+iteration 2800 / 5000: loss 1.123147 learning rate=0.000113
+iteration 2900 / 5000: loss 1.190073 learning rate=0.000107
+iteration 3000 / 5000: loss 1.112998 learning rate=0.000102
+iteration 3100 / 5000: loss 1.117448 learning rate=0.000097
+iteration 3200 / 5000: loss 1.116911 learning rate=0.000092
+iteration 3300 / 5000: loss 1.065043 learning rate=0.000087
+iteration 3400 / 5000: loss 1.155570 learning rate=0.000083
+iteration 3500 / 5000: loss 1.060450 learning rate=0.000079
+iteration 3600 / 5000: loss 1.032568 learning rate=0.000075
+iteration 3700 / 5000: loss 1.132643 learning rate=0.000071
+iteration 3800 / 5000: loss 1.035157 learning rate=0.000068
+iteration 3900 / 5000: loss 1.113213 learning rate=0.000064
+iteration 4000 / 5000: loss 1.075457 learning rate=0.000061
+iteration 4100 / 5000: loss 1.100064 learning rate=0.000058
+iteration 4200 / 5000: loss 1.101524 learning rate=0.000055
+iteration 4300 / 5000: loss 0.999435 learning rate=0.000052
+iteration 4400 / 5000: loss 0.955817 learning rate=0.000050
+iteration 4500 / 5000: loss 1.120209 learning rate=0.000050
+iteration 4600 / 5000: loss 1.083018 learning rate=0.000050
+iteration 4700 / 5000: loss 1.044808 learning rate=0.000050
+iteration 4800 / 5000: loss 0.976696 learning rate=0.000050
+iteration 4900 / 5000: loss 0.977065 learning rate=0.000050
+Validation accuracy: 0.529000 
+
+need total runs 16
+HI
+remaining runs: 16
+remaining runs: 15
+remaining runs: 14
+remaining runs: 13
+remaining runs: 12
+remaining runs: 11
+remaining runs: 10
+Start for niter=5000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=200,mu=0.100000
+iteration 0 / 5000: loss 2.302588 learning rate=0.000500
+iteration 100 / 5000: loss 1.874970 learning rate=0.000451
+iteration 200 / 5000: loss 1.738038 learning rate=0.000429
+iteration 300 / 5000: loss 1.666011 learning rate=0.000407
+iteration 400 / 5000: loss 1.586300 learning rate=0.000387
+iteration 500 / 5000: loss 1.484495 learning rate=0.000368
+iteration 600 / 5000: loss 1.440521 learning rate=0.000349
+iteration 700 / 5000: loss 1.413940 learning rate=0.000332
+iteration 800 / 5000: loss 1.469311 learning rate=0.000315
+iteration 900 / 5000: loss 1.349791 learning rate=0.000299
+iteration 1000 / 5000: loss 1.358695 learning rate=0.000284
+iteration 1100 / 5000: loss 1.296587 learning rate=0.000270
+iteration 1200 / 5000: loss 1.289098 learning rate=0.000257
+iteration 1300 / 5000: loss 1.309840 learning rate=0.000244
+iteration 1400 / 5000: loss 1.298475 learning rate=0.000232
+iteration 1500 / 5000: loss 1.268003 learning rate=0.000220
+iteration 1600 / 5000: loss 1.302211 learning rate=0.000209
+iteration 1700 / 5000: loss 1.298977 learning rate=0.000199
+iteration 1800 / 5000: loss 1.206885 learning rate=0.000189
+iteration 1900 / 5000: loss 1.231693 learning rate=0.000179
+iteration 2000 / 5000: loss 1.239315 learning rate=0.000170
+iteration 2100 / 5000: loss 1.222785 learning rate=0.000162
+iteration 2200 / 5000: loss 1.204519 learning rate=0.000154
+iteration 2300 / 5000: loss 1.197010 learning rate=0.000146
+iteration 2400 / 5000: loss 1.130260 learning rate=0.000139
+iteration 2500 / 5000: loss 1.164456 learning rate=0.000132
+iteration 2600 / 5000: loss 1.103338 learning rate=0.000125
+iteration 2700 / 5000: loss 1.135411 learning rate=0.000119
+iteration 2800 / 5000: loss 1.111797 learning rate=0.000113
+iteration 2900 / 5000: loss 1.124059 learning rate=0.000107
+iteration 3000 / 5000: loss 1.080288 learning rate=0.000102
+iteration 3100 / 5000: loss 1.082149 learning rate=0.000097
+iteration 3200 / 5000: loss 1.106110 learning rate=0.000092
+iteration 3300 / 5000: loss 1.095642 learning rate=0.000087
+iteration 3400 / 5000: loss 1.089259 learning rate=0.000083
+iteration 3500 / 5000: loss 1.057985 learning rate=0.000079
+iteration 3600 / 5000: loss 1.065881 learning rate=0.000075
+iteration 3700 / 5000: loss 1.045746 learning rate=0.000071
+iteration 3800 / 5000: loss 1.116607 learning rate=0.000068
+iteration 3900 / 5000: loss 1.057075 learning rate=0.000064
+iteration 4000 / 5000: loss 1.036743 learning rate=0.000061
+iteration 4100 / 5000: loss 1.115628 learning rate=0.000058
+iteration 4200 / 5000: loss 1.099594 learning rate=0.000055
+iteration 4300 / 5000: loss 0.951746 learning rate=0.000052
+iteration 4400 / 5000: loss 0.993047 learning rate=0.000050
+iteration 4500 / 5000: loss 1.012596 learning rate=0.000050
+iteration 4600 / 5000: loss 1.070672 learning rate=0.000050
+iteration 4700 / 5000: loss 0.993239 learning rate=0.000050
+iteration 4800 / 5000: loss 1.087446 learning rate=0.000050
+iteration 4900 / 5000: loss 0.992298 learning rate=0.000050
+Validation accuracy: 0.551000 
+for,niter=5000,bsize=500,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=200,mu=0.100000
+
+ACCC 0.551
+
+BEST ACC: 0.551
+{'iterations': 5000, 'decay': 0.95, 'batchsize': 500, 'mu': 0.1, 'regular': 0, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2bf38350>, 'hidden': 200, 'accuracy': 0.55100000000000005}
+remaining runs: 9
+Start for niter=5000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=200,mu=0.200000
+iteration 0 / 5000: loss 2.302553 learning rate=0.000500
+iteration 100 / 5000: loss 1.837418 learning rate=0.000451
+iteration 200 / 5000: loss 1.679104 learning rate=0.000429
+iteration 300 / 5000: loss 1.614312 learning rate=0.000407
+iteration 400 / 5000: loss 1.626554 learning rate=0.000387
+iteration 500 / 5000: loss 1.484353 learning rate=0.000368
+iteration 600 / 5000: loss 1.476874 learning rate=0.000349
+iteration 700 / 5000: loss 1.498436 learning rate=0.000332
+iteration 800 / 5000: loss 1.444245 learning rate=0.000315
+iteration 900 / 5000: loss 1.442123 learning rate=0.000299
+iteration 1000 / 5000: loss 1.322254 learning rate=0.000284
+iteration 1100 / 5000: loss 1.370497 learning rate=0.000270
+iteration 1200 / 5000: loss 1.268964 learning rate=0.000257
+iteration 1300 / 5000: loss 1.197054 learning rate=0.000244
+iteration 1400 / 5000: loss 1.257651 learning rate=0.000232
+iteration 1500 / 5000: loss 1.319520 learning rate=0.000220
+iteration 1600 / 5000: loss 1.254506 learning rate=0.000209
+iteration 1700 / 5000: loss 1.180432 learning rate=0.000199
+iteration 1800 / 5000: loss 1.279665 learning rate=0.000189
+iteration 1900 / 5000: loss 1.261130 learning rate=0.000179
+iteration 2000 / 5000: loss 1.172341 learning rate=0.000170
+iteration 2100 / 5000: loss 1.206560 learning rate=0.000162
+iteration 2200 / 5000: loss 1.139324 learning rate=0.000154
+iteration 2300 / 5000: loss 1.183853 learning rate=0.000146
+iteration 2400 / 5000: loss 1.115478 learning rate=0.000139
+iteration 2500 / 5000: loss 1.155191 learning rate=0.000132
+iteration 2600 / 5000: loss 1.159003 learning rate=0.000125
+iteration 2700 / 5000: loss 1.085276 learning rate=0.000119
+iteration 2800 / 5000: loss 1.030529 learning rate=0.000113
+iteration 2900 / 5000: loss 1.081456 learning rate=0.000107
+iteration 3000 / 5000: loss 1.129481 learning rate=0.000102
+iteration 3100 / 5000: loss 1.068506 learning rate=0.000097
+iteration 3200 / 5000: loss 1.062087 learning rate=0.000092
+iteration 3300 / 5000: loss 1.129723 learning rate=0.000087
+iteration 3400 / 5000: loss 1.088565 learning rate=0.000083
+iteration 3500 / 5000: loss 1.117371 learning rate=0.000079
+iteration 3600 / 5000: loss 1.038427 learning rate=0.000075
+iteration 3700 / 5000: loss 1.023685 learning rate=0.000071
+iteration 3800 / 5000: loss 1.007126 learning rate=0.000068
+iteration 3900 / 5000: loss 0.973901 learning rate=0.000064
+iteration 4000 / 5000: loss 1.024039 learning rate=0.000061
+iteration 4100 / 5000: loss 1.044230 learning rate=0.000058
+iteration 4200 / 5000: loss 1.018200 learning rate=0.000055
+iteration 4300 / 5000: loss 1.034919 learning rate=0.000052
+iteration 4400 / 5000: loss 0.930621 learning rate=0.000050
+iteration 4500 / 5000: loss 1.040679 learning rate=0.000050
+iteration 4600 / 5000: loss 0.974629 learning rate=0.000050
+iteration 4700 / 5000: loss 0.964549 learning rate=0.000050
+iteration 4800 / 5000: loss 1.068780 learning rate=0.000050
+iteration 4900 / 5000: loss 1.016997 learning rate=0.000050
+Validation accuracy: 0.557000 
+for,niter=5000,bsize=500,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=200,mu=0.200000
+
+ACCC 0.557
+
+BEST ACC: 0.557
+{'iterations': 5000, 'decay': 0.95, 'batchsize': 500, 'mu': 0.2, 'regular': 0, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2a3c7310>, 'hidden': 200, 'accuracy': 0.55700000000000005}
+remaining runs: 8
+Start for niter=10000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=200,mu=0.100000
+iteration 0 / 10000: loss 2.302593 learning rate=0.001000
+iteration 100 / 10000: loss 1.749729 learning rate=0.000950
+iteration 200 / 10000: loss 1.736810 learning rate=0.000950
+iteration 300 / 10000: loss 1.616300 learning rate=0.000902
+iteration 400 / 10000: loss 1.483664 learning rate=0.000902
+iteration 500 / 10000: loss 1.489687 learning rate=0.000857
+iteration 600 / 10000: loss 1.318593 learning rate=0.000857
+iteration 700 / 10000: loss 1.386145 learning rate=0.000857
+iteration 800 / 10000: loss 1.179635 learning rate=0.000815
+iteration 900 / 10000: loss 1.432335 learning rate=0.000815
+iteration 1000 / 10000: loss 1.276616 learning rate=0.000774
+iteration 1100 / 10000: loss 1.425948 learning rate=0.000774
+iteration 1200 / 10000: loss 1.311118 learning rate=0.000774
+iteration 1300 / 10000: loss 1.288031 learning rate=0.000735
+iteration 1400 / 10000: loss 1.321268 learning rate=0.000735
+iteration 1500 / 10000: loss 1.343370 learning rate=0.000698
+iteration 1600 / 10000: loss 1.232470 learning rate=0.000698
+
+iteration 1700 / 10000: loss 1.242710 learning rate=0.000698
+iteration 1800 / 10000: loss 1.169537 learning rate=0.000663
+iteration 1900 / 10000: loss 1.109554 learning rate=0.000663
+iteration 2000 / 10000: loss 1.345748 learning rate=0.000630
+iteration 2100 / 10000: loss 1.211842 learning rate=0.000630
+iteration 2200 / 10000: loss 1.252238 learning rate=0.000630
+iteration 2300 / 10000: loss 1.156886 learning rate=0.000599
+iteration 2400 / 10000: loss 1.008921 learning rate=0.000599
+iteration 2500 / 10000: loss 1.237829 learning rate=0.000569
+iteration 2600 / 10000: loss 0.986727 learning rate=0.000569
+iteration 2700 / 10000: loss 0.946322 learning rate=0.000540
+iteration 2800 / 10000: loss 1.083416 learning rate=0.000540
+iteration 2900 / 10000: loss 1.103166 learning rate=0.000540
+iteration 3000 / 10000: loss 1.022023 learning rate=0.000513
+iteration 3100 / 10000: loss 0.989181 learning rate=0.000513
+iteration 3200 / 10000: loss 1.039339 learning rate=0.000488
+iteration 3300 / 10000: loss 1.099823 learning rate=0.000488
+iteration 3400 / 10000: loss 0.960397 learning rate=0.000488
+iteration 3500 / 10000: loss 1.146170 learning rate=0.000463
+iteration 3600 / 10000: loss 0.913957 learning rate=0.000463
+iteration 3700 / 10000: loss 0.934888 learning rate=0.000440
+iteration 3800 / 10000: loss 0.842266 learning rate=0.000440
+iteration 3900 / 10000: loss 0.861690 learning rate=0.000440
+iteration 4000 / 10000: loss 0.791757 learning rate=0.000418
+iteration 4100 / 10000: loss 0.916932 learning rate=0.000418
+iteration 4200 / 10000: loss 0.872285 learning rate=0.000397
+iteration 4300 / 10000: loss 0.747507 learning rate=0.000397
+iteration 4400 / 10000: loss 0.904715 learning rate=0.000397
+iteration 4500 / 10000: loss 0.791161 learning rate=0.000377
+iteration 4600 / 10000: loss 1.016694 learning rate=0.000377
+iteration 4700 / 10000: loss 1.039870 learning rate=0.000358
+iteration 4800 / 10000: loss 0.924035 learning rate=0.000358
+iteration 4900 / 10000: loss 0.862707 learning rate=0.000358
+iteration 5000 / 10000: loss 0.907292 learning rate=0.000341
+iteration 5100 / 10000: loss 0.770214 learning rate=0.000341
+iteration 5200 / 10000: loss 0.800098 learning rate=0.000324
+iteration 5300 / 10000: loss 0.696329 learning rate=0.000324
+iteration 5400 / 10000: loss 0.718635 learning rate=0.000307
+iteration 5500 / 10000: loss 0.632486 learning rate=0.000307
+iteration 5600 / 10000: loss 0.753081 learning rate=0.000307
+iteration 5700 / 10000: loss 0.791325 learning rate=0.000292
+iteration 5800 / 10000: loss 0.787536 learning rate=0.000292
+iteration 5900 / 10000: loss 0.642368 learning rate=0.000277
+iteration 6000 / 10000: loss 0.648503 learning rate=0.000277
+iteration 6100 / 10000: loss 0.591384 learning rate=0.000277
+iteration 6200 / 10000: loss 0.657667 learning rate=0.000264
+iteration 6300 / 10000: loss 0.744436 learning rate=0.000264
+iteration 6400 / 10000: loss 0.616815 learning rate=0.000250
+iteration 6500 / 10000: loss 0.715352 learning rate=0.000250
+iteration 6600 / 10000: loss 0.713439 learning rate=0.000250
+iteration 6700 / 10000: loss 0.650451 learning rate=0.000238
+iteration 6800 / 10000: loss 0.608454 learning rate=0.000238
+iteration 6900 / 10000: loss 0.612529 learning rate=0.000226
+iteration 7000 / 10000: loss 0.659160 learning rate=0.000226
+iteration 7100 / 10000: loss 0.779660 learning rate=0.000226
+iteration 7200 / 10000: loss 0.484193 learning rate=0.000215
+iteration 7300 / 10000: loss 0.776819 learning rate=0.000215
+iteration 7400 / 10000: loss 0.522366 learning rate=0.000204
+iteration 7500 / 10000: loss 0.501899 learning rate=0.000204
+iteration 7600 / 10000: loss 0.461128 learning rate=0.000194
+iteration 7700 / 10000: loss 0.500786 learning rate=0.000194
+iteration 7800 / 10000: loss 0.602463 learning rate=0.000194
+iteration 7900 / 10000: loss 0.527178 learning rate=0.000184
+iteration 8000 / 10000: loss 0.511190 learning rate=0.000184
+iteration 8100 / 10000: loss 0.591703 learning rate=0.000175
+iteration 8200 / 10000: loss 0.503864 learning rate=0.000175
+iteration 8300 / 10000: loss 0.442751 learning rate=0.000175
+iteration 8400 / 10000: loss 0.524894 learning rate=0.000166
+iteration 8500 / 10000: loss 0.524992 learning rate=0.000166
+iteration 8600 / 10000: loss 0.481962 learning rate=0.000158
+iteration 8700 / 10000: loss 0.549135 learning rate=0.000158
+iteration 8800 / 10000: loss 0.491696 learning rate=0.000158
+iteration 8900 / 10000: loss 0.407964 learning rate=0.000150
+iteration 9000 / 10000: loss 0.528559 learning rate=0.000150
+iteration 9100 / 10000: loss 0.460914 learning rate=0.000142
+iteration 9200 / 10000: loss 0.489426 learning rate=0.000142
+iteration 9300 / 10000: loss 0.384178 learning rate=0.000142
+iteration 9400 / 10000: loss 0.488973 learning rate=0.000135
+iteration 9500 / 10000: loss 0.446536 learning rate=0.000135
+iteration 9600 / 10000: loss 0.420748 learning rate=0.000129
+iteration 9700 / 10000: loss 0.503918 learning rate=0.000129
+iteration 9800 / 10000: loss 0.400276 learning rate=0.000129
+iteration 9900 / 10000: loss 0.417324 learning rate=0.000122
+Validation accuracy: 0.532000 
+for,niter=10000,bsize=200,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=200,mu=0.100000
+BEST ACC: 0.557
+{'iterations': 5000, 'decay': 0.95, 'batchsize': 500, 'mu': 0.2, 'regular': 0, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2a3c7310>, 'hidden': 200, 'accuracy': 0.55700000000000005}
+remaining runs: 7
+Start for niter=10000,bsize:200,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=200,mu=0.200000
+iteration 0 / 10000: loss 2.302575 learning rate=0.001000
+iteration 100 / 10000: loss 1.734557 learning rate=0.000950
+iteration 200 / 10000: loss 1.587139 learning rate=0.000950
+iteration 300 / 10000: loss 1.454067 learning rate=0.000902
+iteration 400 / 10000: loss 1.576738 learning rate=0.000902
+iteration 500 / 10000: loss 1.574699 learning rate=0.000857
+iteration 600 / 10000: loss 1.628034 learning rate=0.000857
+iteration 700 / 10000: loss 1.388839 learning rate=0.000857
+iteration 800 / 10000: loss 1.434544 learning rate=0.000815
+iteration 900 / 10000: loss 1.531333 learning rate=0.000815
+iteration 1000 / 10000: loss 1.453474 learning rate=0.000774
+iteration 1100 / 10000: loss 1.207924 learning rate=0.000774
+iteration 1200 / 10000: loss 1.515532 learning rate=0.000774
+iteration 1300 / 10000: loss 1.396277 learning rate=0.000735
+iteration 1400 / 10000: loss 1.399670 learning rate=0.000735
+iteration 1500 / 10000: loss 1.174045 learning rate=0.000698
+iteration 1600 / 10000: loss 1.241211 learning rate=0.000698
+iteration 1700 / 10000: loss 1.168094 learning rate=0.000698
+iteration 1800 / 10000: loss 1.150689 learning rate=0.000663
+iteration 1900 / 10000: loss 1.279472 learning rate=0.000663
+iteration 2000 / 10000: loss 1.206577 learning rate=0.000630
+iteration 2100 / 10000: loss 1.244037 learning rate=0.000630
+iteration 2200 / 10000: loss 1.154111 learning rate=0.000630
+iteration 2300 / 10000: loss 1.123018 learning rate=0.000599
+iteration 2400 / 10000: loss 1.018282 learning rate=0.000599
+iteration 2500 / 10000: loss 1.152941 learning rate=0.000569
+iteration 2600 / 10000: loss 1.092219 learning rate=0.000569
+iteration 2700 / 10000: loss 0.987091 learning rate=0.000540
+iteration 2800 / 10000: loss 1.180871 learning rate=0.000540
+iteration 2900 / 10000: loss 1.094868 learning rate=0.000540
+iteration 3000 / 10000: loss 1.040345 learning rate=0.000513
+iteration 3100 / 10000: loss 0.943848 learning rate=0.000513
+iteration 3200 / 10000: loss 0.999122 learning rate=0.000488
+iteration 3300 / 10000: loss 1.024604 learning rate=0.000488
+iteration 3400 / 10000: loss 1.040576 learning rate=0.000488
+iteration 3500 / 10000: loss 1.007605 learning rate=0.000463
+iteration 3600 / 10000: loss 1.011660 learning rate=0.000463
+iteration 3700 / 10000: loss 0.930358 learning rate=0.000440
+iteration 3800 / 10000: loss 0.887499 learning rate=0.000440
+iteration 3900 / 10000: loss 0.929917 learning rate=0.000440
+iteration 4000 / 10000: loss 0.862019 learning rate=0.000418
+iteration 4100 / 10000: loss 0.905487 learning rate=0.000418
+iteration 4200 / 10000: loss 0.829867 learning rate=0.000397
+iteration 4300 / 10000: loss 0.879698 learning rate=0.000397
+
+iteration 4400 / 10000: loss 0.765108 learning rate=0.000397
+iteration 4500 / 10000: loss 0.885386 learning rate=0.000377
+iteration 4600 / 10000: loss 0.788337 learning rate=0.000377
+iteration 4700 / 10000: loss 0.816813 learning rate=0.000358
+iteration 4800 / 10000: loss 0.867874 learning rate=0.000358
+iteration 4900 / 10000: loss 0.640181 learning rate=0.000358
+iteration 5000 / 10000: loss 0.797028 learning rate=0.000341
+iteration 5100 / 10000: loss 0.736536 learning rate=0.000341
+iteration 5200 / 10000: loss 0.802505 learning rate=0.000324
+iteration 5300 / 10000: loss 0.825033 learning rate=0.000324
+iteration 5400 / 10000: loss 0.723406 learning rate=0.000307
+iteration 5500 / 10000: loss 0.758778 learning rate=0.000307
+iteration 5600 / 10000: loss 0.812298 learning rate=0.000307
+iteration 5700 / 10000: loss 0.614908 learning rate=0.000292
+iteration 5800 / 10000: loss 0.736826 learning rate=0.000292
+iteration 5900 / 10000: loss 0.760167 learning rate=0.000277
+iteration 6000 / 10000: loss 0.757085 learning rate=0.000277
+iteration 6100 / 10000: loss 0.697299 learning rate=0.000277
+iteration 6200 / 10000: loss 0.648485 learning rate=0.000264
+iteration 6300 / 10000: loss 0.640152 learning rate=0.000264
+iteration 6400 / 10000: loss 0.624564 learning rate=0.000250
+iteration 6500 / 10000: loss 0.672956 learning rate=0.000250
+iteration 6600 / 10000: loss 0.708683 learning rate=0.000250
+iteration 6700 / 10000: loss 0.670184 learning rate=0.000238
+iteration 6800 / 10000: loss 0.501942 learning rate=0.000238
+iteration 6900 / 10000: loss 0.560943 learning rate=0.000226
+iteration 7000 / 10000: loss 0.646907 learning rate=0.000226
+iteration 7100 / 10000: loss 0.554471 learning rate=0.000226
+iteration 7200 / 10000: loss 0.592572 learning rate=0.000215
+iteration 7300 / 10000: loss 0.483972 learning rate=0.000215
+iteration 7400 / 10000: loss 0.557055 learning rate=0.000204
+iteration 7500 / 10000: loss 0.455322 learning rate=0.000204
+iteration 7600 / 10000: loss 0.518688 learning rate=0.000194
+iteration 7700 / 10000: loss 0.438928 learning rate=0.000194
+iteration 7800 / 10000: loss 0.677494 learning rate=0.000194
+iteration 7900 / 10000: loss 0.467377 learning rate=0.000184
+iteration 8000 / 10000: loss 0.780481 learning rate=0.000184
+iteration 8100 / 10000: loss 0.599512 learning rate=0.000175
+iteration 8200 / 10000: loss 0.453615 learning rate=0.000175
+iteration 8300 / 10000: loss 0.548483 learning rate=0.000175
+iteration 8400 / 10000: loss 0.458988 learning rate=0.000166
+iteration 8500 / 10000: loss 0.545588 learning rate=0.000166
+iteration 8600 / 10000: loss 0.455128 learning rate=0.000158
+iteration 8700 / 10000: loss 0.491830 learning rate=0.000158
+iteration 8800 / 10000: loss 0.496661 learning rate=0.000158
+iteration 8900 / 10000: loss 0.398214 learning rate=0.000150
+iteration 9000 / 10000: loss 0.500505 learning rate=0.000150
+iteration 9100 / 10000: loss 0.448138 learning rate=0.000142
+iteration 9200 / 10000: loss 0.449031 learning rate=0.000142
+iteration 9300 / 10000: loss 0.513268 learning rate=0.000142
+iteration 9400 / 10000: loss 0.413763 learning rate=0.000135
+iteration 9500 / 10000: loss 0.460308 learning rate=0.000135
+iteration 9600 / 10000: loss 0.415394 learning rate=0.000129
+iteration 9700 / 10000: loss 0.419767 learning rate=0.000129
+iteration 9800 / 10000: loss 0.402463 learning rate=0.000129
+iteration 9900 / 10000: loss 0.371552 learning rate=0.000122
+Validation accuracy: 0.536000 
+for,niter=10000,bsize=200,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=200,mu=0.200000
+BEST ACC: 0.557
+{'iterations': 5000, 'decay': 0.95, 'batchsize': 500, 'mu': 0.2, 'regular': 0, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2a3c7310>, 'hidden': 200, 'accuracy': 0.55700000000000005}
+remaining runs: 6
+Start for niter=10000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=200,mu=0.100000
+iteration 0 / 10000: loss 2.302572 learning rate=0.000500
+iteration 100 / 10000: loss 1.845067 learning rate=0.000475
+iteration 200 / 10000: loss 1.825572 learning rate=0.000475
+iteration 300 / 10000: loss 1.618876 learning rate=0.000451
+iteration 400 / 10000: loss 1.666751 learning rate=0.000451
+iteration 500 / 10000: loss 1.648387 learning rate=0.000429
+iteration 600 / 10000: loss 1.452135 learning rate=0.000429
+iteration 700 / 10000: loss 1.493460 learning rate=0.000429
+iteration 800 / 10000: loss 1.447230 learning rate=0.000407
+iteration 900 / 10000: loss 1.393345 learning rate=0.000407
+iteration 1000 / 10000: loss 1.387430 learning rate=0.000387
+iteration 1100 / 10000: loss 1.316541 learning rate=0.000387
+iteration 1200 / 10000: loss 1.347065 learning rate=0.000387
+iteration 1300 / 10000: loss 1.463785 learning rate=0.000368
+iteration 1400 / 10000: loss 1.289482 learning rate=0.000368
+iteration 1500 / 10000: loss 1.280288 learning rate=0.000349
+iteration 1600 / 10000: loss 1.271689 learning rate=0.000349
+iteration 1700 / 10000: loss 1.437095 learning rate=0.000349
+iteration 1800 / 10000: loss 1.144900 learning rate=0.000332
+iteration 1900 / 10000: loss 1.210154 learning rate=0.000332
+iteration 2000 / 10000: loss 1.269966 learning rate=0.000315
+iteration 2100 / 10000: loss 1.048143 learning rate=0.000315
+iteration 2200 / 10000: loss 1.287314 learning rate=0.000315
+iteration 2300 / 10000: loss 1.189502 learning rate=0.000299
+iteration 2400 / 10000: loss 1.139860 learning rate=0.000299
+iteration 2500 / 10000: loss 1.113388 learning rate=0.000284
+iteration 2600 / 10000: loss 1.309093 learning rate=0.000284
+iteration 2700 / 10000: loss 1.090434 learning rate=0.000270
+iteration 2800 / 10000: loss 1.056785 learning rate=0.000270
+iteration 2900 / 10000: loss 1.084378 learning rate=0.000270
+iteration 3000 / 10000: loss 0.946059 learning rate=0.000257
+iteration 3100 / 10000: loss 0.984743 learning rate=0.000257
+iteration 3200 / 10000: loss 0.980215 learning rate=0.000244
+iteration 3300 / 10000: loss 1.100651 learning rate=0.000244
+iteration 3400 / 10000: loss 0.882650 learning rate=0.000244
+iteration 3500 / 10000: loss 1.029763 learning rate=0.000232
+iteration 3600 / 10000: loss 0.919685 learning rate=0.000232
+iteration 3700 / 10000: loss 1.027863 learning rate=0.000220
+iteration 3800 / 10000: loss 0.980767 learning rate=0.000220
+iteration 3900 / 10000: loss 0.921391 learning rate=0.000220
+iteration 4000 / 10000: loss 1.008076 learning rate=0.000209
+iteration 4100 / 10000: loss 0.958278 learning rate=0.000209
+iteration 4200 / 10000: loss 0.937509 learning rate=0.000199
+iteration 4300 / 10000: loss 0.997668 learning rate=0.000199
+iteration 4400 / 10000: loss 0.895789 learning rate=0.000199
+iteration 4500 / 10000: loss 0.947257 learning rate=0.000189
+iteration 4600 / 10000: loss 0.902477 learning rate=0.000189
+iteration 4700 / 10000: loss 0.999402 learning rate=0.000179
+iteration 4800 / 10000: loss 0.875180 learning rate=0.000179
+iteration 4900 / 10000: loss 0.786224 learning rate=0.000179
+iteration 5000 / 10000: loss 1.000763 learning rate=0.000170
+iteration 5100 / 10000: loss 0.957534 learning rate=0.000170
+iteration 5200 / 10000: loss 0.775454 learning rate=0.000162
+iteration 5300 / 10000: loss 0.984534 learning rate=0.000162
+iteration 5400 / 10000: loss 0.953708 learning rate=0.000154
+iteration 5500 / 10000: loss 0.886355 learning rate=0.000154
+iteration 5600 / 10000: loss 0.720514 learning rate=0.000154
+iteration 5700 / 10000: loss 0.718046 learning rate=0.000146
+iteration 5800 / 10000: loss 0.753334 learning rate=0.000146
+iteration 5900 / 10000: loss 0.696854 learning rate=0.000139
+iteration 6000 / 10000: loss 0.783265 learning rate=0.000139
+iteration 6100 / 10000: loss 0.741255 learning rate=0.000139
+iteration 6200 / 10000: loss 0.979649 learning rate=0.000132
+iteration 6300 / 10000: loss 0.776036 learning rate=0.000132
+iteration 6400 / 10000: loss 0.764140 learning rate=0.000125
+iteration 6500 / 10000: loss 0.897685 learning rate=0.000125
+iteration 6600 / 10000: loss 0.835645 learning rate=0.000125
+iteration 6700 / 10000: loss 0.833110 learning rate=0.000119
+iteration 6800 / 10000: loss 0.848946 learning rate=0.000119
+iteration 6900 / 10000: loss 0.756429 learning rate=0.000113
+iteration 7000 / 10000: loss 0.743506 learning rate=0.000113
+
+iteration 7100 / 10000: loss 0.725950 learning rate=0.000113
+iteration 7200 / 10000: loss 0.722779 learning rate=0.000107
+iteration 7300 / 10000: loss 0.812747 learning rate=0.000107
+iteration 7400 / 10000: loss 0.849117 learning rate=0.000102
+iteration 7500 / 10000: loss 0.843302 learning rate=0.000102
+iteration 7600 / 10000: loss 0.869827 learning rate=0.000097
+iteration 7700 / 10000: loss 0.795479 learning rate=0.000097
+iteration 7800 / 10000: loss 0.770067 learning rate=0.000097
+iteration 7900 / 10000: loss 0.660899 learning rate=0.000092
+iteration 8000 / 10000: loss 0.666322 learning rate=0.000092
+iteration 8100 / 10000: loss 0.693197 learning rate=0.000087
+iteration 8200 / 10000: loss 0.811527 learning rate=0.000087
+iteration 8300 / 10000: loss 0.752194 learning rate=0.000087
+iteration 8400 / 10000: loss 0.558741 learning rate=0.000083
+iteration 8500 / 10000: loss 0.699373 learning rate=0.000083
+iteration 8600 / 10000: loss 0.656972 learning rate=0.000079
+iteration 8700 / 10000: loss 0.645879 learning rate=0.000079
+iteration 8800 / 10000: loss 0.698885 learning rate=0.000079
+iteration 8900 / 10000: loss 0.786908 learning rate=0.000075
+iteration 9000 / 10000: loss 0.711145 learning rate=0.000075
+iteration 9100 / 10000: loss 0.588768 learning rate=0.000071
+iteration 9200 / 10000: loss 0.775258 learning rate=0.000071
+iteration 9300 / 10000: loss 0.618022 learning rate=0.000071
+iteration 9400 / 10000: loss 0.614914 learning rate=0.000068
+iteration 9500 / 10000: loss 0.602510 learning rate=0.000068
+iteration 9600 / 10000: loss 0.659823 learning rate=0.000064
+iteration 9700 / 10000: loss 0.679350 learning rate=0.000064
+iteration 9800 / 10000: loss 0.653895 learning rate=0.000064
+iteration 9900 / 10000: loss 0.616267 learning rate=0.000061
+Validation accuracy: 0.549000 
+for,niter=10000,bsize=200,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=200,mu=0.100000
+BEST ACC: 0.557
+{'iterations': 5000, 'decay': 0.95, 'batchsize': 500, 'mu': 0.2, 'regular': 0, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2a3c7310>, 'hidden': 200, 'accuracy': 0.55700000000000005}
+remaining runs: 5
+Start for niter=10000,bsize:200,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=200,mu=0.200000
+iteration 0 / 10000: loss 2.302596 learning rate=0.000500
+iteration 100 / 10000: loss 1.841927 learning rate=0.000475
+iteration 200 / 10000: loss 1.584661 learning rate=0.000475
+iteration 300 / 10000: loss 1.722809 learning rate=0.000451
+iteration 400 / 10000: loss 1.533643 learning rate=0.000451
+iteration 500 / 10000: loss 1.563356 learning rate=0.000429
+iteration 600 / 10000: loss 1.544375 learning rate=0.000429
+iteration 700 / 10000: loss 1.407423 learning rate=0.000429
+iteration 800 / 10000: loss 1.380870 learning rate=0.000407
+iteration 900 / 10000: loss 1.362213 learning rate=0.000407
+iteration 1000 / 10000: loss 1.304048 learning rate=0.000387
+iteration 1100 / 10000: loss 1.305159 learning rate=0.000387
+iteration 1200 / 10000: loss 1.338731 learning rate=0.000387
+iteration 1300 / 10000: loss 1.317020 learning rate=0.000368
+iteration 1400 / 10000: loss 1.353266 learning rate=0.000368
+iteration 1500 / 10000: loss 1.281751 learning rate=0.000349
+iteration 1600 / 10000: loss 1.092782 learning rate=0.000349
+iteration 1700 / 10000: loss 1.245512 learning rate=0.000349
+iteration 1800 / 10000: loss 1.449714 learning rate=0.000332
+iteration 1900 / 10000: loss 1.108888 learning rate=0.000332
+iteration 2000 / 10000: loss 1.204681 learning rate=0.000315
+iteration 2100 / 10000: loss 1.108561 learning rate=0.000315
+iteration 2200 / 10000: loss 1.288918 learning rate=0.000315
+iteration 2300 / 10000: loss 1.213085 learning rate=0.000299
+iteration 2400 / 10000: loss 1.122835 learning rate=0.000299
+iteration 2500 / 10000: loss 1.234738 learning rate=0.000284
+iteration 2600 / 10000: loss 1.073863 learning rate=0.000284
+iteration 2700 / 10000: loss 1.166206 learning rate=0.000270
+iteration 2800 / 10000: loss 0.915510 learning rate=0.000270
+iteration 2900 / 10000: loss 1.092609 learning rate=0.000270
+iteration 3000 / 10000: loss 1.068250 learning rate=0.000257
+iteration 3100 / 10000: loss 0.977658 learning rate=0.000257
+iteration 3200 / 10000: loss 1.013330 learning rate=0.000244
+iteration 3300 / 10000: loss 1.019324 learning rate=0.000244
+iteration 3400 / 10000: loss 1.070102 learning rate=0.000244
+iteration 3500 / 10000: loss 0.940665 learning rate=0.000232
+iteration 3600 / 10000: loss 1.123459 learning rate=0.000232
+iteration 3700 / 10000: loss 0.973739 learning rate=0.000220
+iteration 3800 / 10000: loss 0.980976 learning rate=0.000220
+iteration 3900 / 10000: loss 0.901174 learning rate=0.000220
+iteration 4000 / 10000: loss 0.921494 learning rate=0.000209
+iteration 4100 / 10000: loss 1.123505 learning rate=0.000209
+iteration 4200 / 10000: loss 0.919484 learning rate=0.000199
+iteration 4300 / 10000: loss 0.962038 learning rate=0.000199
+iteration 4400 / 10000: loss 0.918831 learning rate=0.000199
+iteration 4500 / 10000: loss 1.008597 learning rate=0.000189
+iteration 4600 / 10000: loss 0.888544 learning rate=0.000189
+iteration 4700 / 10000: loss 1.027744 learning rate=0.000179
+iteration 4800 / 10000: loss 0.835299 learning rate=0.000179
+iteration 4900 / 10000: loss 0.840943 learning rate=0.000179
+iteration 5000 / 10000: loss 0.974883 learning rate=0.000170
+iteration 5100 / 10000: loss 0.908986 learning rate=0.000170
+iteration 5200 / 10000: loss 0.865813 learning rate=0.000162
+iteration 5300 / 10000: loss 0.908201 learning rate=0.000162
+iteration 5400 / 10000: loss 0.876755 learning rate=0.000154
+iteration 5500 / 10000: loss 0.845287 learning rate=0.000154
+iteration 5600 / 10000: loss 0.820956 learning rate=0.000154
+iteration 5700 / 10000: loss 0.802004 learning rate=0.000146
+iteration 5800 / 10000: loss 0.726585 learning rate=0.000146
+iteration 5900 / 10000: loss 0.794703 learning rate=0.000139
+iteration 6000 / 10000: loss 0.847151 learning rate=0.000139
+iteration 6100 / 10000: loss 0.780855 learning rate=0.000139
+iteration 6200 / 10000: loss 0.759677 learning rate=0.000132
+iteration 6300 / 10000: loss 0.815063 learning rate=0.000132
+iteration 6400 / 10000: loss 0.880917 learning rate=0.000125
+iteration 6500 / 10000: loss 0.798636 learning rate=0.000125
+iteration 6600 / 10000: loss 0.746765 learning rate=0.000125
+iteration 6700 / 10000: loss 0.731083 learning rate=0.000119
+iteration 6800 / 10000: loss 0.729880 learning rate=0.000119
+iteration 6900 / 10000: loss 0.833781 learning rate=0.000113
+iteration 7000 / 10000: loss 0.655203 learning rate=0.000113
+iteration 7100 / 10000: loss 0.821137 learning rate=0.000113
+iteration 7200 / 10000: loss 0.640536 learning rate=0.000107
+iteration 7300 / 10000: loss 0.652824 learning rate=0.000107
+iteration 7400 / 10000: loss 0.746728 learning rate=0.000102
+iteration 7500 / 10000: loss 0.766520 learning rate=0.000102
+iteration 7600 / 10000: loss 0.672504 learning rate=0.000097
+iteration 7700 / 10000: loss 0.701728 learning rate=0.000097
+iteration 7800 / 10000: loss 0.743374 learning rate=0.000097
+iteration 7900 / 10000: loss 0.724640 learning rate=0.000092
+iteration 8000 / 10000: loss 0.663500 learning rate=0.000092
+iteration 8100 / 10000: loss 0.759650 learning rate=0.000087
+iteration 8200 / 10000: loss 0.670027 learning rate=0.000087
+iteration 8300 / 10000: loss 0.569553 learning rate=0.000087
+iteration 8400 / 10000: loss 0.707589 learning rate=0.000083
+iteration 8500 / 10000: loss 0.608285 learning rate=0.000083
+iteration 8600 / 10000: loss 0.660753 learning rate=0.000079
+iteration 8700 / 10000: loss 0.747484 learning rate=0.000079
+iteration 8800 / 10000: loss 0.623962 learning rate=0.000079
+iteration 8900 / 10000: loss 0.528925 learning rate=0.000075
+iteration 9000 / 10000: loss 0.663146 learning rate=0.000075
+iteration 9100 / 10000: loss 0.630684 learning rate=0.000071
+iteration 9200 / 10000: loss 0.624784 learning rate=0.000071
+iteration 9300 / 10000: loss 0.543390 learning rate=0.000071
+iteration 9400 / 10000: loss 0.748485 learning rate=0.000068
+iteration 9500 / 10000: loss 0.581568 learning rate=0.000068
+iteration 9600 / 10000: loss 0.684779 learning rate=0.000064
+iteration 9700 / 10000: loss 0.630178 learning rate=0.000064
+
+iteration 9800 / 10000: loss 0.659793 learning rate=0.000064
+iteration 9900 / 10000: loss 0.573683 learning rate=0.000061
+Validation accuracy: 0.529000 
+for,niter=10000,bsize=200,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=200,mu=0.200000
+BEST ACC: 0.557
+{'iterations': 5000, 'decay': 0.95, 'batchsize': 500, 'mu': 0.2, 'regular': 0, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2a3c7310>, 'hidden': 200, 'accuracy': 0.55700000000000005}
+remaining runs: 4
+Start for niter=10000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=200,mu=0.100000
+iteration 0 / 10000: loss 2.302599 learning rate=0.001000
+iteration 100 / 10000: loss 1.676237 learning rate=0.000902
+iteration 200 / 10000: loss 1.621086 learning rate=0.000857
+iteration 300 / 10000: loss 1.550253 learning rate=0.000815
+iteration 400 / 10000: loss 1.458300 learning rate=0.000774
+iteration 500 / 10000: loss 1.403807 learning rate=0.000735
+iteration 600 / 10000: loss 1.418637 learning rate=0.000698
+iteration 700 / 10000: loss 1.383738 learning rate=0.000663
+iteration 800 / 10000: loss 1.336764 learning rate=0.000630
+iteration 900 / 10000: loss 1.216721 learning rate=0.000599
+iteration 1000 / 10000: loss 1.213128 learning rate=0.000569
+iteration 1100 / 10000: loss 1.237557 learning rate=0.000540
+iteration 1200 / 10000: loss 1.088910 learning rate=0.000513
+iteration 1300 / 10000: loss 1.114409 learning rate=0.000488
+iteration 1400 / 10000: loss 1.022734 learning rate=0.000463
+iteration 1500 / 10000: loss 1.144111 learning rate=0.000440
+iteration 1600 / 10000: loss 1.067938 learning rate=0.000418
+iteration 1700 / 10000: loss 1.014853 learning rate=0.000397
+iteration 1800 / 10000: loss 1.027638 learning rate=0.000377
+iteration 1900 / 10000: loss 0.959420 learning rate=0.000358
+iteration 2000 / 10000: loss 0.947690 learning rate=0.000341
+iteration 2100 / 10000: loss 1.088677 learning rate=0.000324
+iteration 2200 / 10000: loss 1.059426 learning rate=0.000307
+iteration 2300 / 10000: loss 0.923641 learning rate=0.000292
+iteration 2400 / 10000: loss 0.955424 learning rate=0.000277
+iteration 2500 / 10000: loss 0.910553 learning rate=0.000264
+iteration 2600 / 10000: loss 0.854428 learning rate=0.000250
+iteration 2700 / 10000: loss 0.913897 learning rate=0.000238
+iteration 2800 / 10000: loss 0.930582 learning rate=0.000226
+iteration 2900 / 10000: loss 0.887860 learning rate=0.000215
+iteration 3000 / 10000: loss 0.889742 learning rate=0.000204
+iteration 3100 / 10000: loss 0.861873 learning rate=0.000194
+iteration 3200 / 10000: loss 0.795718 learning rate=0.000184
+iteration 3300 / 10000: loss 0.746902 learning rate=0.000175
+iteration 3400 / 10000: loss 0.829455 learning rate=0.000166
+iteration 3500 / 10000: loss 0.785557 learning rate=0.000158
+iteration 3600 / 10000: loss 0.761434 learning rate=0.000150
+iteration 3700 / 10000: loss 0.801920 learning rate=0.000142
+iteration 3800 / 10000: loss 0.787387 learning rate=0.000135
+iteration 3900 / 10000: loss 0.745573 learning rate=0.000129
+iteration 4000 / 10000: loss 0.860674 learning rate=0.000122
+iteration 4100 / 10000: loss 0.741054 learning rate=0.000116
+iteration 4200 / 10000: loss 0.781273 learning rate=0.000110
+iteration 4300 / 10000: loss 0.720215 learning rate=0.000105
+iteration 4400 / 10000: loss 0.698964 learning rate=0.000099
+iteration 4500 / 10000: loss 0.686486 learning rate=0.000094
+iteration 4600 / 10000: loss 0.744226 learning rate=0.000090
+iteration 4700 / 10000: loss 0.815469 learning rate=0.000085
+iteration 4800 / 10000: loss 0.673776 learning rate=0.000081
+iteration 4900 / 10000: loss 0.727692 learning rate=0.000077
+iteration 5000 / 10000: loss 0.673470 learning rate=0.000069
+iteration 5100 / 10000: loss 0.660361 learning rate=0.000066
+iteration 5200 / 10000: loss 0.697291 learning rate=0.000063
+iteration 5300 / 10000: loss 0.657263 learning rate=0.000060
+iteration 5400 / 10000: loss 0.673658 learning rate=0.000057
+iteration 5500 / 10000: loss 0.696150 learning rate=0.000054
+iteration 5600 / 10000: loss 0.682880 learning rate=0.000051
+iteration 5700 / 10000: loss 0.671116 learning rate=0.000050
+iteration 5800 / 10000: loss 0.724873 learning rate=0.000050
+iteration 5900 / 10000: loss 0.744653 learning rate=0.000050
+iteration 6000 / 10000: loss 0.675246 learning rate=0.000050
+iteration 6100 / 10000: loss 0.644615 learning rate=0.000050
+iteration 6200 / 10000: loss 0.752097 learning rate=0.000050
+iteration 6300 / 10000: loss 0.677206 learning rate=0.000050
+iteration 6400 / 10000: loss 0.686912 learning rate=0.000050
+iteration 6500 / 10000: loss 0.711249 learning rate=0.000050
+iteration 6600 / 10000: loss 0.678935 learning rate=0.000050
+iteration 6700 / 10000: loss 0.638008 learning rate=0.000050
+iteration 6800 / 10000: loss 0.720827 learning rate=0.000050
+iteration 6900 / 10000: loss 0.663969 learning rate=0.000050
+iteration 7000 / 10000: loss 0.577369 learning rate=0.000050
+iteration 7100 / 10000: loss 0.644025 learning rate=0.000050
+iteration 7200 / 10000: loss 0.621535 learning rate=0.000050
+iteration 7300 / 10000: loss 0.730812 learning rate=0.000050
+iteration 7400 / 10000: loss 0.652855 learning rate=0.000050
+iteration 7500 / 10000: loss 0.714201 learning rate=0.000050
+iteration 7600 / 10000: loss 0.707256 learning rate=0.000050
+iteration 7700 / 10000: loss 0.661167 learning rate=0.000050
+iteration 7800 / 10000: loss 0.674287 learning rate=0.000050
+iteration 7900 / 10000: loss 0.690170 learning rate=0.000050
+iteration 8000 / 10000: loss 0.654484 learning rate=0.000050
+iteration 8100 / 10000: loss 0.660552 learning rate=0.000050
+iteration 8200 / 10000: loss 0.673555 learning rate=0.000050
+iteration 8300 / 10000: loss 0.681334 learning rate=0.000050
+iteration 8400 / 10000: loss 0.691970 learning rate=0.000050
+iteration 8500 / 10000: loss 0.686395 learning rate=0.000050
+iteration 8600 / 10000: loss 0.596891 learning rate=0.000050
+iteration 8700 / 10000: loss 0.629471 learning rate=0.000050
+iteration 8800 / 10000: loss 0.669123 learning rate=0.000050
+iteration 8900 / 10000: loss 0.654265 learning rate=0.000050
+iteration 9000 / 10000: loss 0.637723 learning rate=0.000050
+iteration 9100 / 10000: loss 0.620120 learning rate=0.000050
+iteration 9200 / 10000: loss 0.581348 learning rate=0.000050
+iteration 9300 / 10000: loss 0.645745 learning rate=0.000050
+iteration 9400 / 10000: loss 0.631441 learning rate=0.000050
+iteration 9500 / 10000: loss 0.671045 learning rate=0.000050
+iteration 9600 / 10000: loss 0.646938 learning rate=0.000050
+iteration 9700 / 10000: loss 0.621219 learning rate=0.000050
+iteration 9800 / 10000: loss 0.641296 learning rate=0.000050
+iteration 9900 / 10000: loss 0.656132 learning rate=0.000050
+Validation accuracy: 0.554000 
+for,niter=10000,bsize=500,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=200,mu=0.100000
+BEST ACC: 0.557
+{'iterations': 5000, 'decay': 0.95, 'batchsize': 500, 'mu': 0.2, 'regular': 0, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2a3c7310>, 'hidden': 200, 'accuracy': 0.55700000000000005}
+remaining runs: 3
+Start for niter=10000,bsize:500,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=200,mu=0.200000
+iteration 0 / 10000: loss 2.302613 learning rate=0.001000
+iteration 100 / 10000: loss 1.775446 learning rate=0.000902
+iteration 200 / 10000: loss 1.570323 learning rate=0.000857
+iteration 300 / 10000: loss 1.467513 learning rate=0.000815
+iteration 400 / 10000: loss 1.396058 learning rate=0.000774
+iteration 500 / 10000: loss 1.285571 learning rate=0.000735
+iteration 600 / 10000: loss 1.367806 learning rate=0.000698
+iteration 700 / 10000: loss 1.313863 learning rate=0.000663
+iteration 800 / 10000: loss 1.372830 learning rate=0.000630
+iteration 900 / 10000: loss 1.243343 learning rate=0.000599
+iteration 1000 / 10000: loss 1.254102 learning rate=0.000569
+iteration 1100 / 10000: loss 1.194710 learning rate=0.000540
+iteration 1200 / 10000: loss 1.245651 learning rate=0.000513
+iteration 1300 / 10000: loss 1.100596 learning rate=0.000488
+iteration 1400 / 10000: loss 1.175205 learning rate=0.000463
+iteration 1500 / 10000: loss 1.145347 learning rate=0.000440
+iteration 1600 / 10000: loss 1.068048 learning rate=0.000418
+iteration 1700 / 10000: loss 1.013710 learning rate=0.000397
+
+iteration 1800 / 10000: loss 0.980983 learning rate=0.000377
+iteration 1900 / 10000: loss 1.039566 learning rate=0.000358
+iteration 2000 / 10000: loss 0.916271 learning rate=0.000341
+iteration 2100 / 10000: loss 0.909785 learning rate=0.000324
+iteration 2200 / 10000: loss 0.965107 learning rate=0.000307
+iteration 2300 / 10000: loss 0.955182 learning rate=0.000292
+iteration 2400 / 10000: loss 0.957441 learning rate=0.000277
+iteration 2500 / 10000: loss 0.845196 learning rate=0.000264
+iteration 2600 / 10000: loss 0.837161 learning rate=0.000250
+iteration 2700 / 10000: loss 0.805745 learning rate=0.000238
+iteration 2800 / 10000: loss 0.868070 learning rate=0.000226
+iteration 2900 / 10000: loss 0.878107 learning rate=0.000215
+iteration 3000 / 10000: loss 0.865595 learning rate=0.000204
+iteration 3100 / 10000: loss 0.812954 learning rate=0.000194
+iteration 3200 / 10000: loss 0.792514 learning rate=0.000184
+iteration 3300 / 10000: loss 0.766182 learning rate=0.000175
+iteration 3400 / 10000: loss 0.774197 learning rate=0.000166
+iteration 3500 / 10000: loss 0.805258 learning rate=0.000158
+iteration 3600 / 10000: loss 0.730794 learning rate=0.000150
+iteration 3700 / 10000: loss 0.770948 learning rate=0.000142
+iteration 3800 / 10000: loss 0.715590 learning rate=0.000135
+iteration 3900 / 10000: loss 0.792718 learning rate=0.000129
+iteration 4000 / 10000: loss 0.746013 learning rate=0.000122
+iteration 4100 / 10000: loss 0.757526 learning rate=0.000116
+iteration 4200 / 10000: loss 0.794006 learning rate=0.000110
+iteration 4300 / 10000: loss 0.740160 learning rate=0.000105
+iteration 4400 / 10000: loss 0.726743 learning rate=0.000099
+iteration 4500 / 10000: loss 0.732300 learning rate=0.000094
+iteration 4600 / 10000: loss 0.672195 learning rate=0.000090
+iteration 4700 / 10000: loss 0.696427 learning rate=0.000085
+iteration 4800 / 10000: loss 0.697600 learning rate=0.000081
+iteration 4900 / 10000: loss 0.717021 learning rate=0.000077
+iteration 5000 / 10000: loss 0.636794 learning rate=0.000069
+iteration 5100 / 10000: loss 0.703184 learning rate=0.000066
+iteration 5200 / 10000: loss 0.709746 learning rate=0.000063
+iteration 5300 / 10000: loss 0.692520 learning rate=0.000060
+iteration 5400 / 10000: loss 0.696547 learning rate=0.000057
+iteration 5500 / 10000: loss 0.677638 learning rate=0.000054
+iteration 5600 / 10000: loss 0.684971 learning rate=0.000051
+iteration 5700 / 10000: loss 0.740458 learning rate=0.000050
+iteration 5800 / 10000: loss 0.701585 learning rate=0.000050
+iteration 5900 / 10000: loss 0.582073 learning rate=0.000050
+iteration 6000 / 10000: loss 0.608752 learning rate=0.000050
+iteration 6100 / 10000: loss 0.657056 learning rate=0.000050
+iteration 6200 / 10000: loss 0.667476 learning rate=0.000050
+iteration 6300 / 10000: loss 0.623750 learning rate=0.000050
+iteration 6400 / 10000: loss 0.765204 learning rate=0.000050
+iteration 6500 / 10000: loss 0.629302 learning rate=0.000050
+iteration 6600 / 10000: loss 0.652492 learning rate=0.000050
+iteration 6700 / 10000: loss 0.646269 learning rate=0.000050
+iteration 6800 / 10000: loss 0.631914 learning rate=0.000050
+iteration 6900 / 10000: loss 0.651430 learning rate=0.000050
+iteration 7000 / 10000: loss 0.668910 learning rate=0.000050
+iteration 7100 / 10000: loss 0.598756 learning rate=0.000050
+iteration 7200 / 10000: loss 0.638801 learning rate=0.000050
+iteration 7300 / 10000: loss 0.637860 learning rate=0.000050
+iteration 7400 / 10000: loss 0.647017 learning rate=0.000050
+iteration 7500 / 10000: loss 0.713499 learning rate=0.000050
+iteration 7600 / 10000: loss 0.626162 learning rate=0.000050
+iteration 7700 / 10000: loss 0.628883 learning rate=0.000050
+iteration 7800 / 10000: loss 0.567100 learning rate=0.000050
+iteration 7900 / 10000: loss 0.679581 learning rate=0.000050
+iteration 8000 / 10000: loss 0.670210 learning rate=0.000050
+iteration 8100 / 10000: loss 0.674715 learning rate=0.000050
+iteration 8200 / 10000: loss 0.620067 learning rate=0.000050
+iteration 8300 / 10000: loss 0.653150 learning rate=0.000050
+iteration 8400 / 10000: loss 0.604941 learning rate=0.000050
+iteration 8500 / 10000: loss 0.583129 learning rate=0.000050
+iteration 8600 / 10000: loss 0.614980 learning rate=0.000050
+iteration 8700 / 10000: loss 0.579281 learning rate=0.000050
+iteration 8800 / 10000: loss 0.588288 learning rate=0.000050
+iteration 8900 / 10000: loss 0.614543 learning rate=0.000050
+iteration 9000 / 10000: loss 0.574265 learning rate=0.000050
+iteration 9100 / 10000: loss 0.585259 learning rate=0.000050
+iteration 9200 / 10000: loss 0.588762 learning rate=0.000050
+iteration 9300 / 10000: loss 0.577354 learning rate=0.000050
+iteration 9400 / 10000: loss 0.595553 learning rate=0.000050
+iteration 9500 / 10000: loss 0.561643 learning rate=0.000050
+iteration 9600 / 10000: loss 0.556010 learning rate=0.000050
+iteration 9700 / 10000: loss 0.524340 learning rate=0.000050
+iteration 9800 / 10000: loss 0.586935 learning rate=0.000050
+iteration 9900 / 10000: loss 0.622023 learning rate=0.000050
+Validation accuracy: 0.548000 
+for,niter=10000,bsize=500,lr=0.001000,lrd=0.950000,regu=0.000000,hidden=200,mu=0.200000
+BEST ACC: 0.557
+{'iterations': 5000, 'decay': 0.95, 'batchsize': 500, 'mu': 0.2, 'regular': 0, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2a3c7310>, 'hidden': 200, 'accuracy': 0.55700000000000005}
+remaining runs: 2
+Start for niter=10000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=200,mu=0.100000
+iteration 0 / 10000: loss 2.302559 learning rate=0.000500
+iteration 100 / 10000: loss 1.945551 learning rate=0.000451
+iteration 200 / 10000: loss 1.720135 learning rate=0.000429
+iteration 300 / 10000: loss 1.636914 learning rate=0.000407
+iteration 400 / 10000: loss 1.520523 learning rate=0.000387
+iteration 500 / 10000: loss 1.587199 learning rate=0.000368
+iteration 600 / 10000: loss 1.505551 learning rate=0.000349
+iteration 700 / 10000: loss 1.407164 learning rate=0.000332
+iteration 800 / 10000: loss 1.415882 learning rate=0.000315
+iteration 900 / 10000: loss 1.382712 learning rate=0.000299
+iteration 1000 / 10000: loss 1.321761 learning rate=0.000284
+iteration 1100 / 10000: loss 1.314662 learning rate=0.000270
+iteration 1200 / 10000: loss 1.354786 learning rate=0.000257
+iteration 1300 / 10000: loss 1.310062 learning rate=0.000244
+iteration 1400 / 10000: loss 1.328517 learning rate=0.000232
+iteration 1500 / 10000: loss 1.191585 learning rate=0.000220
+iteration 1600 / 10000: loss 1.233220 learning rate=0.000209
+iteration 1700 / 10000: loss 1.232314 learning rate=0.000199
+iteration 1800 / 10000: loss 1.206194 learning rate=0.000189
+iteration 1900 / 10000: loss 1.173442 learning rate=0.000179
+iteration 2000 / 10000: loss 1.186243 learning rate=0.000170
+iteration 2100 / 10000: loss 1.130249 learning rate=0.000162
+iteration 2200 / 10000: loss 1.145084 learning rate=0.000154
+iteration 2300 / 10000: loss 1.095959 learning rate=0.000146
+iteration 2400 / 10000: loss 1.153512 learning rate=0.000139
+iteration 2500 / 10000: loss 1.143354 learning rate=0.000132
+iteration 2600 / 10000: loss 1.106446 learning rate=0.000125
+iteration 2700 / 10000: loss 1.168339 learning rate=0.000119
+iteration 2800 / 10000: loss 1.145079 learning rate=0.000113
+iteration 2900 / 10000: loss 1.114842 learning rate=0.000107
+iteration 3000 / 10000: loss 1.126734 learning rate=0.000102
+iteration 3100 / 10000: loss 1.099951 learning rate=0.000097
+iteration 3200 / 10000: loss 1.128108 learning rate=0.000092
+iteration 3300 / 10000: loss 0.992984 learning rate=0.000087
+iteration 3400 / 10000: loss 1.089549 learning rate=0.000083
+iteration 3500 / 10000: loss 1.039968 learning rate=0.000079
+iteration 3600 / 10000: loss 1.019768 learning rate=0.000075
+iteration 3700 / 10000: loss 1.049883 learning rate=0.000071
+iteration 3800 / 10000: loss 1.051137 learning rate=0.000068
+iteration 3900 / 10000: loss 1.084919 learning rate=0.000064
+iteration 4000 / 10000: loss 1.056262 learning rate=0.000061
+iteration 4100 / 10000: loss 1.027899 learning rate=0.000058
+iteration 4200 / 10000: loss 0.997084 learning rate=0.000055
+iteration 4300 / 10000: loss 1.032273 learning rate=0.000052
+iteration 4400 / 10000: loss 1.020058 learning rate=0.000050
+
+iteration 4500 / 10000: loss 1.020089 learning rate=0.000050
+iteration 4600 / 10000: loss 1.040214 learning rate=0.000050
+iteration 4700 / 10000: loss 1.056703 learning rate=0.000050
+iteration 4800 / 10000: loss 1.015535 learning rate=0.000050
+iteration 4900 / 10000: loss 1.065543 learning rate=0.000050
+iteration 5000 / 10000: loss 0.965418 learning rate=0.000050
+iteration 5100 / 10000: loss 1.030404 learning rate=0.000050
+iteration 5200 / 10000: loss 0.973882 learning rate=0.000050
+iteration 5300 / 10000: loss 1.011889 learning rate=0.000050
+iteration 5400 / 10000: loss 0.983597 learning rate=0.000050
+iteration 5500 / 10000: loss 0.966979 learning rate=0.000050
+iteration 5600 / 10000: loss 1.002769 learning rate=0.000050
+iteration 5700 / 10000: loss 1.095119 learning rate=0.000050
+iteration 5800 / 10000: loss 0.942261 learning rate=0.000050
+iteration 5900 / 10000: loss 0.962842 learning rate=0.000050
+iteration 6000 / 10000: loss 0.887944 learning rate=0.000050
+iteration 6100 / 10000: loss 0.991851 learning rate=0.000050
+iteration 6200 / 10000: loss 0.941626 learning rate=0.000050
+iteration 6300 / 10000: loss 0.991840 learning rate=0.000050
+iteration 6400 / 10000: loss 0.974965 learning rate=0.000050
+iteration 6500 / 10000: loss 0.938761 learning rate=0.000050
+iteration 6600 / 10000: loss 0.946586 learning rate=0.000050
+iteration 6700 / 10000: loss 1.018516 learning rate=0.000050
+iteration 6800 / 10000: loss 1.016424 learning rate=0.000050
+iteration 6900 / 10000: loss 0.985478 learning rate=0.000050
+iteration 7000 / 10000: loss 0.882832 learning rate=0.000050
+iteration 7100 / 10000: loss 1.019122 learning rate=0.000050
+iteration 7200 / 10000: loss 0.954568 learning rate=0.000050
+iteration 7300 / 10000: loss 0.904565 learning rate=0.000050
+iteration 7400 / 10000: loss 0.919894 learning rate=0.000050
+iteration 7500 / 10000: loss 0.958221 learning rate=0.000050
+iteration 7600 / 10000: loss 0.959748 learning rate=0.000050
+iteration 7700 / 10000: loss 0.950375 learning rate=0.000050
+iteration 7800 / 10000: loss 0.942068 learning rate=0.000050
+iteration 7900 / 10000: loss 0.907231 learning rate=0.000050
+iteration 8000 / 10000: loss 0.964367 learning rate=0.000050
+iteration 8100 / 10000: loss 0.907206 learning rate=0.000050
+iteration 8200 / 10000: loss 0.867250 learning rate=0.000050
+iteration 8300 / 10000: loss 0.970202 learning rate=0.000050
+iteration 8400 / 10000: loss 0.891647 learning rate=0.000050
+iteration 8500 / 10000: loss 0.870771 learning rate=0.000050
+iteration 8600 / 10000: loss 0.919579 learning rate=0.000050
+iteration 8700 / 10000: loss 0.903622 learning rate=0.000050
+iteration 8800 / 10000: loss 0.914449 learning rate=0.000050
+iteration 8900 / 10000: loss 0.993948 learning rate=0.000050
+iteration 9000 / 10000: loss 0.887520 learning rate=0.000050
+iteration 9100 / 10000: loss 0.921576 learning rate=0.000050
+iteration 9200 / 10000: loss 0.939024 learning rate=0.000050
+iteration 9300 / 10000: loss 0.982764 learning rate=0.000050
+iteration 9400 / 10000: loss 0.941606 learning rate=0.000050
+iteration 9500 / 10000: loss 0.876502 learning rate=0.000050
+iteration 9600 / 10000: loss 0.944408 learning rate=0.000050
+iteration 9700 / 10000: loss 0.952542 learning rate=0.000050
+iteration 9800 / 10000: loss 0.887111 learning rate=0.000050
+iteration 9900 / 10000: loss 0.854685 learning rate=0.000050
+Validation accuracy: 0.539000 
+for,niter=10000,bsize=500,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=200,mu=0.100000
+BEST ACC: 0.557
+{'iterations': 5000, 'decay': 0.95, 'batchsize': 500, 'mu': 0.2, 'regular': 0, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2a3c7310>, 'hidden': 200, 'accuracy': 0.55700000000000005}
+remaining runs: 1
+Start for niter=10000,bsize:500,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=200,mu=0.200000
+iteration 0 / 10000: loss 2.302611 learning rate=0.000500
+iteration 100 / 10000: loss 1.898195 learning rate=0.000451
+iteration 200 / 10000: loss 1.691259 learning rate=0.000429
+iteration 300 / 10000: loss 1.598162 learning rate=0.000407
+iteration 400 / 10000: loss 1.589513 learning rate=0.000387
+iteration 500 / 10000: loss 1.562868 learning rate=0.000368
+iteration 600 / 10000: loss 1.483010 learning rate=0.000349
+iteration 700 / 10000: loss 1.439581 learning rate=0.000332
+iteration 800 / 10000: loss 1.444313 learning rate=0.000315
+iteration 900 / 10000: loss 1.385802 learning rate=0.000299
+iteration 1000 / 10000: loss 1.236737 learning rate=0.000284
+iteration 1100 / 10000: loss 1.300143 learning rate=0.000270
+iteration 1200 / 10000: loss 1.299119 learning rate=0.000257
+iteration 1300 / 10000: loss 1.336930 learning rate=0.000244
+iteration 1400 / 10000: loss 1.185468 learning rate=0.000232
+iteration 1500 / 10000: loss 1.180630 learning rate=0.000220
+iteration 1600 / 10000: loss 1.184639 learning rate=0.000209
+iteration 1700 / 10000: loss 1.153243 learning rate=0.000199
+iteration 1800 / 10000: loss 1.166699 learning rate=0.000189
+iteration 1900 / 10000: loss 1.204516 learning rate=0.000179
+iteration 2000 / 10000: loss 1.162902 learning rate=0.000170
+iteration 2100 / 10000: loss 1.191322 learning rate=0.000162
+iteration 2200 / 10000: loss 1.094487 learning rate=0.000154
+iteration 2300 / 10000: loss 1.084239 learning rate=0.000146
+iteration 2400 / 10000: loss 1.151632 learning rate=0.000139
+iteration 2500 / 10000: loss 1.150545 learning rate=0.000132
+iteration 2600 / 10000: loss 1.158792 learning rate=0.000125
+iteration 2700 / 10000: loss 1.138378 learning rate=0.000119
+iteration 2800 / 10000: loss 1.087823 learning rate=0.000113
+iteration 2900 / 10000: loss 1.107265 learning rate=0.000107
+iteration 3000 / 10000: loss 1.057202 learning rate=0.000102
+iteration 3100 / 10000: loss 1.100645 learning rate=0.000097
+iteration 3200 / 10000: loss 1.054593 learning rate=0.000092
+iteration 3300 / 10000: loss 1.051676 learning rate=0.000087
+iteration 3400 / 10000: loss 1.126942 learning rate=0.000083
+iteration 3500 / 10000: loss 1.157610 learning rate=0.000079
+iteration 3600 / 10000: loss 0.979984 learning rate=0.000075
+iteration 3700 / 10000: loss 1.033869 learning rate=0.000071
+iteration 3800 / 10000: loss 0.990104 learning rate=0.000068
+iteration 3900 / 10000: loss 1.041535 learning rate=0.000064
+iteration 4000 / 10000: loss 0.996987 learning rate=0.000061
+iteration 4100 / 10000: loss 1.015560 learning rate=0.000058
+iteration 4200 / 10000: loss 1.051684 learning rate=0.000055
+iteration 4300 / 10000: loss 1.099255 learning rate=0.000052
+iteration 4400 / 10000: loss 1.043494 learning rate=0.000050
+iteration 4500 / 10000: loss 0.984444 learning rate=0.000050
+iteration 4600 / 10000: loss 0.983947 learning rate=0.000050
+iteration 4700 / 10000: loss 0.970963 learning rate=0.000050
+iteration 4800 / 10000: loss 0.973823 learning rate=0.000050
+iteration 4900 / 10000: loss 0.964127 learning rate=0.000050
+iteration 5000 / 10000: loss 0.993940 learning rate=0.000050
+iteration 5100 / 10000: loss 0.905367 learning rate=0.000050
+iteration 5200 / 10000: loss 1.007250 learning rate=0.000050
+iteration 5300 / 10000: loss 0.995698 learning rate=0.000050
+iteration 5400 / 10000: loss 1.023937 learning rate=0.000050
+iteration 5500 / 10000: loss 0.947686 learning rate=0.000050
+iteration 5600 / 10000: loss 0.977887 learning rate=0.000050
+iteration 5700 / 10000: loss 0.934051 learning rate=0.000050
+iteration 5800 / 10000: loss 0.989004 learning rate=0.000050
+iteration 5900 / 10000: loss 0.949599 learning rate=0.000050
+iteration 6000 / 10000: loss 0.956522 learning rate=0.000050
+iteration 6100 / 10000: loss 0.981125 learning rate=0.000050
+iteration 6200 / 10000: loss 0.931514 learning rate=0.000050
+iteration 6300 / 10000: loss 1.029239 learning rate=0.000050
+iteration 6400 / 10000: loss 0.988783 learning rate=0.000050
+iteration 6500 / 10000: loss 1.027261 learning rate=0.000050
+iteration 6600 / 10000: loss 0.942992 learning rate=0.000050
+iteration 6700 / 10000: loss 0.919881 learning rate=0.000050
+iteration 6800 / 10000: loss 0.933478 learning rate=0.000050
+iteration 6900 / 10000: loss 0.979861 learning rate=0.000050
+iteration 7000 / 10000: loss 0.898365 learning rate=0.000050
+iteration 7100 / 10000: loss 0.959432 learning rate=0.000050
+
+iteration 7200 / 10000: loss 0.958027 learning rate=0.000050
+iteration 7300 / 10000: loss 0.954758 learning rate=0.000050
+iteration 7400 / 10000: loss 0.973845 learning rate=0.000050
+iteration 7500 / 10000: loss 1.055701 learning rate=0.000050
+iteration 7600 / 10000: loss 0.896924 learning rate=0.000050
+iteration 7700 / 10000: loss 0.964088 learning rate=0.000050
+iteration 7800 / 10000: loss 0.888554 learning rate=0.000050
+iteration 7900 / 10000: loss 0.959440 learning rate=0.000050
+iteration 8000 / 10000: loss 0.877640 learning rate=0.000050
+iteration 8100 / 10000: loss 0.841410 learning rate=0.000050
+iteration 8200 / 10000: loss 0.947154 learning rate=0.000050
+iteration 8300 / 10000: loss 0.843081 learning rate=0.000050
+iteration 8400 / 10000: loss 0.876164 learning rate=0.000050
+iteration 8500 / 10000: loss 0.834038 learning rate=0.000050
+iteration 8600 / 10000: loss 0.940554 learning rate=0.000050
+iteration 8700 / 10000: loss 0.933098 learning rate=0.000050
+iteration 8800 / 10000: loss 0.885134 learning rate=0.000050
+iteration 8900 / 10000: loss 0.856305 learning rate=0.000050
+iteration 9000 / 10000: loss 0.825930 learning rate=0.000050
+iteration 9100 / 10000: loss 0.854007 learning rate=0.000050
+iteration 9200 / 10000: loss 0.945203 learning rate=0.000050
+iteration 9300 / 10000: loss 0.990395 learning rate=0.000050
+iteration 9400 / 10000: loss 0.947854 learning rate=0.000050
+iteration 9500 / 10000: loss 0.882029 learning rate=0.000050
+iteration 9600 / 10000: loss 0.906125 learning rate=0.000050
+iteration 9700 / 10000: loss 0.874461 learning rate=0.000050
+iteration 9800 / 10000: loss 0.857110 learning rate=0.000050
+iteration 9900 / 10000: loss 0.852244 learning rate=0.000050
+Validation accuracy: 0.547000 
+for,niter=10000,bsize=500,lr=0.000500,lrd=0.950000,regu=0.000000,hidden=200,mu=0.200000
+BEST ACC: 0.557
+{'iterations': 5000, 'decay': 0.95, 'batchsize': 500, 'mu': 0.2, 'regular': 0, 'learning': 0.0005, 'net': <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2a3c7310>, 'hidden': 200, 'accuracy': 0.55700000000000005}
+best model
+iterations 5000
+decay 0.95
+batchsize 500
+mu 0.2
+regular 0
+learning 0.0005
+net <cs231n.classifiers.neural_net.TwoLayerNet object at 0x7fcf2a3c7310>
+hidden 200
+accuracy 0.557
+
+
