@@ -517,7 +517,8 @@ class FullyConnectedNet(object):
 		Wsum+=np.sum(self.params['W'+str(layer)]*self.params['W'+str(layer)])
 		if self.use_batchnorm:
 			batchnorm_forward(scores,gamma,beta,bn_param)
-		scores=np.maximum(0,scores) #relu
+		scores,cache['R'+str(layer)]=leaky_relu_forward(scores)#leaky_relu
+		#cache['R'+str(layer)]=scores
 		if self.use_dropout:
 			dropout_forward(scores,self.dropout_param)
     #cache['L'+str(self.num_layers)]=scores
@@ -577,8 +578,12 @@ class FullyConnectedNet(object):
     
     for layer in range(self.num_layers-1,0,-1):
 		if self.use_dropout:
-			dout=dropout_backward(dout,cache['L'+str(self.num_layers)]) 
-		dx=relu_backward(dout)
+			dout=dropout_backward(dout,cache['L'+str(layer)]) 
+		dout=leaky_relu_backward(dout,cache['R'+str(layer)])
+		dout,dw,db=affine_backward(dout,cache['L'+str(layer)])
+		grads['W'+str(layer)]=dw+self.reg*self.params['W'+str(layer)]
+		grads['b'+str(layer)]=db
+		
 		
 		
     

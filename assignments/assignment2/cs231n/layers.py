@@ -114,7 +114,58 @@ def relu_backward(dout, cache):
   #dx=np.ones(x.shape)
   #dx1 = np.maximum(0,x)
   #print 
-  dx[x<=0]=0
+  dx[x<=0]*=0
+  #############################################################################
+  # TODO: Implement the ReLU backward pass.                                   #
+  #############################################################################
+  pass
+  #############################################################################
+  #                             END OF YOUR CODE                              #
+  #############################################################################
+  return dx
+
+def leaky_relu_forward(x):
+  """
+  Computes the forward pass for a layer of rectified linear units (ReLUs).
+
+  Input:
+  - x: Inputs, of any shape
+
+  Returns a tuple of:
+  - out: Output, of the same shape as x
+  - cache: x
+  """
+  out = None
+  #############################################################################
+  # TODO: Implement the ReLU forward pass.                                    #
+  #############################################################################
+  pass
+  #############################################################################
+  #                             END OF YOUR CODE                              #
+  #############################################################################
+  cache = x
+  out=np.maximum(0.001*x,x)
+  return out, cache
+
+
+def leaky_relu_backward(dout, cache):
+  """
+  Computes the backward pass for a layer of rectified linear units (ReLUs).
+
+  Input:
+  - dout: Upstream derivatives, of any shape
+  - cache: Input x, of same shape as dout
+
+  Returns:
+  - dx: Gradient with respect to x
+  """
+  
+  dx, x = None, cache
+  dx=dout
+  #dx=np.ones(x.shape)
+  #dx1 = np.maximum(0,x)
+  #print 
+  dx[x<=0]*=0.001
   #############################################################################
   # TODO: Implement the ReLU backward pass.                                   #
   #############################################################################
@@ -293,24 +344,34 @@ def dropout_forward(x, dropout_param):
   p, mode = dropout_param['p'], dropout_param['mode']
   if 'seed' in dropout_param:
     np.random.seed(dropout_param['seed'])
+  
+  randoms=np.random.random(x.shape)
+  
+  out=x
+  mask=None
 
-  mask = None
-  out = None
 
   if mode == 'train':
+	  mask = np.ones_like(x)
+	  mask[randoms>p]=0
+	  out[randoms>p]=0
+	  
     ###########################################################################
     # TODO: Implement the training phase forward pass for inverted dropout.   #
     # Store the dropout mask in the mask variable.                            #
     ###########################################################################
-    pass
+    
+    
     ###########################################################################
     #                            END OF YOUR CODE                             #
     ###########################################################################
   elif mode == 'test':
+	  out=x
+	  mask=None
     ###########################################################################
     # TODO: Implement the test phase forward pass for inverted dropout.       #
     ###########################################################################
-    pass
+    #pass
     ###########################################################################
     #                            END OF YOUR CODE                             #
     ###########################################################################
@@ -338,6 +399,7 @@ def dropout_backward(dout, cache):
     # TODO: Implement the training phase backward pass for inverted dropout.  #
     ###########################################################################
     pass
+    dx=dout*dropout_param['p']
     ###########################################################################
     #                            END OF YOUR CODE                             #
     ###########################################################################
