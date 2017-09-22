@@ -85,7 +85,6 @@ def softmax_loss_naive(W, X, y, reg,bias=None):
 
 
 def softmax_loss_vectorized(W, X, y, reg):
-
   """
   Softmax loss function, vectorized version.
 
@@ -98,14 +97,12 @@ def softmax_loss_vectorized(W, X, y, reg):
   dW=np.dot(X.T,error_class(X,y,W))+reg*W
   
   L=np.exp(sc)
-  print "SM Reg",reg
   #print sc
 
   for i in range(X.shape[0]):
 	  loss-=sc[i][y[i]]
 	  loss+=np.log(sum(L[i]))
   loss/=X.shape[0]
-  loss+=0.5*reg*np.sum(W*W)
   #############################################################################
   # TODO: Compute the softmax loss and its gradient using no explicit loops.  #
   # Store the loss in loss and the gradient in dW. If you are not careful     #

@@ -72,7 +72,7 @@ class TwoLayerNet(object):
     W2, b2 = self.params['W2'], self.params['b2']
     N, D = X.shape
     
-    
+    #print "REG:",reg
     
     X1=np.insert(X,0,1,axis=1)
 
@@ -136,7 +136,7 @@ class TwoLayerNet(object):
     grads = {}
     
 
-    grads['W2']=w2gradient[1:]#np.dot(Layer1,gradient)
+    grads['W2']=w2gradient[1:]+reg*sum(W1*W1)#np.dot(Layer1,gradient)
     grads['W1']=w1grads+reg*W1#w1Lgradient[1:]+reg*W1
     grads['b2']=w2gradient[0]
     grads['b1']=np.sum(dhidden, axis=0)#w1Lgradient[0]
