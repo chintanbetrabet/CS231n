@@ -520,7 +520,7 @@ class FullyConnectedNet(object):
 		scores,cache['R'+str(layer)]=leaky_relu_forward(scores)#leaky_relu
 		#cache['R'+str(layer)]=scores
 		if self.use_dropout:
-			dropout_forward(scores,self.dropout_param)
+			scores,cache['D'+str(layer)]=dropout_forward(scores,self.dropout_param)
     #cache['L'+str(self.num_layers)]=scores
     scores,cache['L'+str(self.num_layers)]=affine_forward(scores,self.params['W'+str(self.num_layers)],self.params['b'+str(self.num_layers)])
     	
@@ -578,7 +578,7 @@ class FullyConnectedNet(object):
     
     for layer in range(self.num_layers-1,0,-1):
 		if self.use_dropout:
-			dout=dropout_backward(dout,cache['L'+str(layer)]) 
+			dout=dropout_backward(dout,cache['D'+str(layer)]) 
 		dout=leaky_relu_backward(dout,cache['R'+str(layer)])
 		dout,dw,db=affine_backward(dout,cache['L'+str(layer)])
 		grads['W'+str(layer)]=dw+self.reg*self.params['W'+str(layer)]
